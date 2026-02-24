@@ -1,0 +1,320 @@
+{
+  "activateSkinCapeForUserVersion": false,
+  "skipHashsumValidation": false,
+  "additionalFiles": [
+    {
+      "sha1": "f9240aaa50a06c04d8e285772ba16a340ddc5aef",
+      "size": 8288387,
+      "path": "libraries/net/minecraft/client/1.21.11/client-1.21.11-mappings.tsrg",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.21.11/client-1.21.11-mappings.tsrg"
+    },
+    {
+      "sha1": "30a7252f08508f83ddcafa39883fabd77596df72",
+      "size": 32228566,
+      "path": "libraries/net/minecraft/client/1.21.11/client-1.21.11-official.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.21.11/client-1.21.11-official.jar"
+    },
+    {
+      "sha1": "7f100be1dbe8cc82bd9051136ba1e3ac95de45d6",
+      "size": 16281,
+      "path": "libraries/net/minecraftforge/forge/1.21.11-61.1.0/forge-1.21.11-61.1.0-shim.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/forge/1.21.11-61.1.0/forge-1.21.11-61.1.0-shim.jar"
+    },
+    {
+      "sha1": "92b56604c038a852e88fa299b0a578931a5132fc",
+      "size": 128228,
+      "path": "libraries/net/minecraftforge/fmlcore/1.21.11-61.1.0/fmlcore-1.21.11-61.1.0.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/fmlcore/1.21.11-61.1.0/fmlcore-1.21.11-61.1.0.jar"
+    },
+    {
+      "sha1": "5278d1ec2735f248bb71927899c7bd3d28941503",
+      "size": 27043,
+      "path": "libraries/net/minecraftforge/javafmllanguage/1.21.11-61.1.0/javafmllanguage-1.21.11-61.1.0.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/javafmllanguage/1.21.11-61.1.0/javafmllanguage-1.21.11-61.1.0.jar"
+    },
+    {
+      "sha1": "91ebe9573250884f70b6d14b84d00cc008d72d5f",
+      "size": 4820,
+      "path": "libraries/net/minecraftforge/mclanguage/1.21.11-61.1.0/mclanguage-1.21.11-61.1.0.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/mclanguage/1.21.11-61.1.0/mclanguage-1.21.11-61.1.0.jar"
+    },
+    {
+      "sha1": "6ec4d00fcfa37944ea4b1fc9755b5208697d56ab",
+      "size": 7179,
+      "path": "libraries/net/minecraftforge/lowcodelanguage/1.21.11-61.1.0/lowcodelanguage-1.21.11-61.1.0.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/lowcodelanguage/1.21.11-61.1.0/lowcodelanguage-1.21.11-61.1.0.jar"
+    }
+  ],
+  "tlauncherVersion": 0,
+  "modpack": {
+    "modpackMemory": false,
+    "memory": 0,
+    "id": -58208884002300,
+    "name": "Server",
+    "favorite": false,
+    "version": {
+      "mods": [
+        {
+          "stateGameElement": "active",
+          "id": 10000020,
+          "name": "TL skin and cape",
+          "author": "tlauncher.org",
+          "uuid": "cd3ef9ea-62dd-11e6-b39e-002590a1379b",
+          "linkProject": "https://tlauncher.org",
+          "favorite": false,
+          "categories": [],
+          "picture": 73988,
+          "pictures": [
+            73990,
+            73989
+          ],
+          "lanName": "tl-skin-and-cape",
+          "version": {
+            "id": 11024154,
+            "name": "1.38",
+            "updateDate": 1767093624000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "6ce9d6c7cef6b915512b3de8c8f9ac6c3341c733",
+              "size": 2792464,
+              "path": "mods/tl_skin_cape_forge_1.21.11-1.38.jar",
+              "url": "/mods/42068170/11024151/tl_skin_cape_forge_1.21.11-1.38.jar"
+            },
+            "installed": 17586675,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 332992,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1769934766000,
+          "update": 1769934766000,
+          "downloadALL": 604919282,
+          "available": true,
+          "parser": false,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 9999999,
+          "name": "Optifine",
+          "author": "OptiFine.net",
+          "uuid": "cd3ef9ea-62dd-11e6-b39e-002590a1379b",
+          "linkProject": "https://optifine.net",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 22,
+              "name": "mc_miscellaneous",
+              "shortName": "mixed",
+              "nesting": 0
+            },
+            {
+              "id": 2,
+              "name": "adventure_rpg",
+              "shortName": "rpg",
+              "nesting": 0
+            },
+            {
+              "id": 29,
+              "name": "world_gen",
+              "shortName": "world",
+              "nesting": 0
+            }
+          ],
+          "picture": 52103,
+          "pictures": [],
+          "lanName": "optifine",
+          "version": {
+            "id": 11025241,
+            "name": "1.21.11_HD_U_J9_pre4",
+            "updateDate": 1770306044000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "ee32ce4b406e290a0e99685afd09dc44cad03ddd",
+              "size": 8043981,
+              "path": "mods/preview_OptiFine_1.21.11_HD_U_J9_pre4.jar",
+              "url": "/mods/42068145/11025240/preview_OptiFine_1.21.11_HD_U_J9_pre4.jar"
+            },
+            "installed": 4650847,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 106929,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1770306042000,
+          "update": 1770306042000,
+          "downloadALL": 197841453,
+          "available": true,
+          "parser": false,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 349559,
+          "name": "FallingTree",
+          "author": "raksrinana",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/falling-tree",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 22,
+              "name": "mc_miscellaneous",
+              "shortName": "mixed",
+              "nesting": 0
+            },
+            {
+              "id": 23,
+              "name": "world_ores_resources",
+              "shortName": "ores",
+              "nesting": 0
+            },
+            {
+              "id": 10,
+              "name": "technology_farming",
+              "shortName": "farming",
+              "nesting": 0
+            }
+          ],
+          "picture": 787411,
+          "pictures": [],
+          "lanName": "falling-tree",
+          "version": {
+            "id": 7576599,
+            "name": "1.21.11-1.21.11.3",
+            "updateDate": 1770234362000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "ad3104635dffaf8b5b532b4276f6d034665bd38b",
+              "size": 488371,
+              "path": "mods/FallingTree-1.21.11-1.21.11.3.jar",
+              "url": "/mods/349559/7576599/FallingTree-1.21.11-1.21.11.3.jar"
+            },
+            "installed": 65502,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              },
+              {
+                "id": 2,
+                "name": "fabric"
+              },
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 20469,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 1009,
+              "name": "Cloth Config API (FabricForgeNeoForge)",
+              "gameEntityId": 348521,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 204,
+              "name": "Mod Menu",
+              "gameEntityId": 308702,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 1295,
+              "name": "Fabric API",
+              "gameEntityId": 306612,
+              "dependencyType": "optional"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1770152400000,
+          "update": 1770152400000,
+          "downloadALL": 31982857,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        }
+      ],
+      "resourcePacks": [],
+      "maps": [],
+      "shaderpacks": [],
+      "gameVersionDTO": {
+        "id": 66,
+        "name": "1.21.11"
+      },
+      "minecraftVersionName": {
+        "id": 4259,
+        "name": "61.1.0"
+      },
+      "id": -58208884013701,
+      "name": "1.0",
+      "available": false,
+      "minecraftVersionTypes": [
+        {
+          "id": 1,
+          "name": "forge"
+        }
+      ]
+    },
+    "userInstall": false,
+    "populateStatus": false,
+    "available": false,
+    "parser": false,
+    "totalComments": 0
+  },
+  "source": "local_version_repo",
+  "jar": "1.21.11",
+  "skinVersion": true
+}
