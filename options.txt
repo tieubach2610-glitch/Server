@@ -16,7 +16,7 @@ glintStrength:0.75
 graphicsPreset:"custom"
 prioritizeChunkUpdates:0
 fullscreen:false
-gamma:0.0
+gamma:0.5046745336886181
 guiScale:0
 maxAnisotropyBit:2
 textureFiltering:0
@@ -29,8 +29,8 @@ particles:0
 reducedDebugInfo:false
 renderClouds:"true"
 cloudRange:128
-renderDistance:2
-simulationDistance:5
+renderDistance:16
+simulationDistance:8
 screenEffectScale:1.0
 soundDevice:""
 vignette:true

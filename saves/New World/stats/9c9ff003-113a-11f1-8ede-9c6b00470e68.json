@@ -1,21 +1,25 @@
 {
   "stats": {
-    "minecraft:used": {
-      "minecraft:jungle_log": 5,
-      "minecraft:oak_log": 4
+    "minecraft:picked_up": {
+      "minecraft:coal": 10,
+      "minecraft:furnace": 3
     },
     "minecraft:custom": {
       "minecraft:sprint_one_cm": 238,
-      "minecraft:time_since_rest": 2860,
-      "minecraft:walk_one_cm": 5588,
-      "minecraft:total_world_time": 2973,
-      "minecraft:leave_game": 2,
-      "minecraft:fly_one_cm": 2899,
-      "minecraft:crouch_one_cm": 107,
-      "minecraft:sneak_time": 175,
-      "minecraft:play_time": 2860,
-      "minecraft:jump": 10,
-      "minecraft:time_since_death": 2860
+      "minecraft:time_since_rest": 366153,
+      "minecraft:walk_one_cm": 8051,
+      "minecraft:total_world_time": 370445,
+      "minecraft:leave_game": 3,
+      "minecraft:fly_one_cm": 3293,
+      "minecraft:crouch_one_cm": 404,
+      "minecraft:sneak_time": 271,
+      "minecraft:play_time": 366153,
+      "minecraft:jump": 24,
+      "minecraft:time_since_death": 366153
+    },
+    "minecraft:used": {
+      "minecraft:jungle_log": 5,
+      "minecraft:oak_log": 4
     }
   },
   "DataVersion": 4671

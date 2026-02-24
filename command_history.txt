@@ -1,2 +1,3 @@
 /gamemode creative
 /tp DatVanTay007
+/tp kayd12
