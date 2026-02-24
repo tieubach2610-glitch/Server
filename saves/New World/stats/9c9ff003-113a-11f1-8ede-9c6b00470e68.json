@@ -1,20 +1,20 @@
 {
   "stats": {
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 241040,
+      "minecraft:fall_one_cm": 1400,
+      "minecraft:walk_one_cm": 1323,
+      "minecraft:total_world_time": 242144,
+      "minecraft:leave_game": 4,
+      "minecraft:damage_taken": 110,
+      "minecraft:play_time": 241040,
+      "minecraft:jump": 1,
+      "minecraft:time_since_death": 241040
+    },
     "minecraft:picked_up": {
       "minecraft:oak_log": 2,
       "minecraft:oak_sapling": 3,
       "minecraft:jungle_log": 1
-    },
-    "minecraft:custom": {
-      "minecraft:time_since_rest": 235400,
-      "minecraft:fall_one_cm": 1400,
-      "minecraft:walk_one_cm": 551,
-      "minecraft:total_world_time": 235567,
-      "minecraft:leave_game": 2,
-      "minecraft:damage_taken": 110,
-      "minecraft:play_time": 235400,
-      "minecraft:jump": 1,
-      "minecraft:time_since_death": 235400
     }
   },
   "DataVersion": 4671
