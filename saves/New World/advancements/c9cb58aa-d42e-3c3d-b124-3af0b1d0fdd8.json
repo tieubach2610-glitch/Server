@@ -72,9 +72,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/ladder": {
+  "minecraft:recipes/misc/charcoal": {
     "criteria": {
-      "has_stick": "2026-02-24 19:51:22 +0700"
+      "has_log": "2026-02-24 19:49:38 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2026-02-24 19:49:38 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2026-02-24 19:49:38 +0700"
     },
     "done": true
   },
@@ -90,18 +102,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_axe": {
-    "criteria": {
-      "has_stick": "2026-02-24 19:51:22 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/wooden_spear": {
-    "criteria": {
-      "has_stick": "2026-02-24 19:51:22 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2026-02-24 19:49:55 +0700"
@@ -114,22 +114,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:zombie": "2026-02-24 19:51:04 +0700",
-      "minecraft:drowned": "2026-02-24 19:51:57 +0700"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2026-02-24 19:49:55 +0700"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2026-02-24 19:51:10 +0700"
     },
     "done": true
   },
@@ -145,33 +132,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/campfire": {
-    "criteria": {
-      "has_stick": "2026-02-24 19:51:22 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_hoe": {
-    "criteria": {
-      "has_stick": "2026-02-24 19:51:22 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2026-02-24 19:49:55 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2026-02-24 19:49:38 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_pickaxe": {
-    "criteria": {
-      "has_stick": "2026-02-24 19:51:22 +0700"
     },
     "done": true
   },
@@ -187,27 +150,22 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_shovel": {
+  "minecraft:recipes/decorations/barrel": {
     "criteria": {
-      "has_stick": "2026-02-24 19:51:22 +0700"
+      "has_planks": "2026-02-24 19:49:55 +0700"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2026-02-24 19:51:04 +0700",
+      "minecraft:drowned": "2026-02-24 19:51:57 +0700"
+    },
+    "done": false
   },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2026-02-24 19:51:04 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/wooden_sword": {
-    "criteria": {
-      "has_stick": "2026-02-24 19:51:22 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2026-02-24 19:49:38 +0700"
     },
     "done": true
   },
@@ -217,9 +175,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/barrel": {
+  "minecraft:husbandry/root": {
     "criteria": {
-      "has_planks": "2026-02-24 19:49:55 +0700"
+      "consumed_item": "2026-02-24 19:51:10 +0700"
     },
     "done": true
   },
@@ -229,15 +187,69 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/oak_wood": {
-    "criteria": {
-      "has_log": "2026-02-24 19:49:38 +0700"
-    },
-    "done": true
-  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2026-02-24 19:51:16 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2026-02-24 19:51:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2026-02-24 19:51:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_spear": {
+    "criteria": {
+      "has_stick": "2026-02-24 19:51:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2026-02-24 19:51:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2026-02-24 19:51:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2026-02-24 19:51:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2026-02-24 19:51:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2026-02-24 19:51:22 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2026-02-24 21:19:04 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2026-02-24 21:19:04 +0700"
     },
     "done": true
   },
