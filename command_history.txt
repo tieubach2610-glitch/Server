@@ -1,3 +1,23 @@
 /gamemode creative
 /tp DatVanTay007
 /tp kayd12
+/time set day
+/tp kayd12
+/time set day
+/tp kayd12
+/time set day
+/gamemode spectator
+/gamemode creative
+/gamemode spectator
+/gamemode creative
+/time set day
+/tp kayd12
+/time set day
+/time set night
+/time set day
+/tp kayd12
+/gamerule random_tick_speed 100
+/weather clear
+/time set day
+/time set 18000
+/time set day

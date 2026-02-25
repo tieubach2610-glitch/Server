@@ -1,185 +1,424 @@
-[00:01:07] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to Adm1n2610]
-[00:01:07] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to Adm1n2610]
-[00:03:55] [Server thread/INFO]: [kayd12: Teleported kayd12 to 73.500000, 68.500000, -1306.500000]
-[00:03:55] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to 73.500000, 68.500000, -1306.500000]
-[00:04:01] [Server thread/INFO]: [DatVanTay007: Gave 1 [String] to DatVanTay007]
-[00:04:01] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Gave 1 [String] to DatVanTay007]
-[00:05:02] [Server thread/INFO]: DatVanTay007 has made the advancement [Best Friends Forever]
-[00:05:02] [Render thread/INFO]: [System] [CHAT] DatVanTay007 has made the advancement [Best Friends Forever]
-[00:05:18] [Server thread/INFO]: Tree reached max size of 100
-[00:05:22] [Server thread/INFO]: Tree reached max size of 100
-[00:05:32] [Server thread/INFO]: Tree reached max size of 100
-[00:05:32] [Server thread/INFO]: Tree reached max size of 100
-[00:06:12] [Server thread/INFO]: asdhbasbd has made the advancement [Cover Me with Diamonds]
-[00:06:12] [Render thread/INFO]: [System] [CHAT] asdhbasbd has made the advancement [Cover Me with Diamonds]
-[00:07:39] [Server thread/INFO]: [kayd12: Set the time to 6000]
-[00:07:39] [Render thread/INFO]: [System] [CHAT] [kayd12: Set the time to 6000]
-[00:08:37] [Server thread/INFO]: [kayd12: Teleported kayd12 to DatVanTay007]
-[00:08:37] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to DatVanTay007]
-[00:09:35] [Server thread/INFO]: asdhbasbd has made the advancement [We Need to Go Deeper]
-[00:09:35] [Render thread/INFO]: [System] [CHAT] asdhbasbd has made the advancement [We Need to Go Deeper]
-[00:12:07] [Server thread/INFO]: [kayd12: Gave 1 experience levels to asdhbasbd]
-[00:12:07] [Render thread/INFO]: [System] [CHAT] [kayd12: Gave 1 experience levels to asdhbasbd]
-[00:12:46] [Server thread/INFO]: [kayd12: Teleported kayd12 to asdhbasbd]
-[00:12:46] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to asdhbasbd]
-[00:13:05] [Server thread/INFO]: asdhbasbd was blown up by Ghast
-[00:13:05] [Render thread/INFO]: [System] [CHAT] asdhbasbd was blown up by Ghast
-[00:13:06] [Render thread/INFO]: Resizing Dynamic Transforms UBO, capacity limit of 16 reached during a single frame. New capacity will be 32.
-[00:14:15] [Server thread/INFO]: DatVanTay007 was slain by asdhbasbd
-[00:14:15] [Render thread/INFO]: [System] [CHAT] DatVanTay007 was slain by asdhbasbd
-[00:14:21] [Server thread/INFO]: [kayd12: Teleported kayd12 to asdhbasbd]
-[00:14:21] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to asdhbasbd]
-[00:14:28] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to asdhbasbd]
-[00:14:28] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to asdhbasbd]
-[00:14:32] [Server thread/INFO]: [kayd12: Set the time to 1100]
-[00:14:32] [Render thread/INFO]: [System] [CHAT] [kayd12: Set the time to 1100]
-[00:16:31] [Server thread/INFO]: [kayd12: Teleported kayd12 to DatVanTay007]
-[00:16:31] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to DatVanTay007]
-[00:16:33] [Render thread/INFO]: Loaded 9 advancements
-[00:16:34] [Render thread/INFO]: Loaded 10 advancements
-[00:16:35] [Server thread/INFO]: DatVanTay007 tried to swim in lava
-[00:16:35] [Render thread/INFO]: [System] [CHAT] DatVanTay007 tried to swim in lava
-[00:16:37] [Server thread/INFO]: kayd12 tried to swim in lava
-[00:16:37] [Render thread/INFO]: [System] [CHAT] kayd12 tried to swim in lava
-[00:16:42] [Server thread/INFO]: [kayd12: Teleported kayd12 to DatVanTay007]
-[00:16:42] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to DatVanTay007]
-[00:16:43] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to Adm1n2610]
-[00:16:43] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to Adm1n2610]
-[00:16:50] [Server thread/INFO]: [kayd12: Teleported kayd12 to DatVanTay007]
-[00:16:50] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to DatVanTay007]
-[00:17:08] [Server thread/INFO]: DatVanTay007 has made the advancement [Stay Hydrated!]
-[00:17:08] [Render thread/INFO]: [System] [CHAT] DatVanTay007 has made the advancement [Stay Hydrated!]
-[00:18:48] [Server thread/INFO]: DatVanTay007 was killed
-[00:18:48] [Server thread/INFO]: [kayd12: Killed DatVanTay007]
-[00:18:48] [Render thread/INFO]: [System] [CHAT] DatVanTay007 was killed
-[00:18:48] [Render thread/INFO]: [System] [CHAT] [kayd12: Killed DatVanTay007]
-[00:21:05] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to 59.500000, 65.500000, -1294.500000]
-[00:21:05] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to 59.500000, 65.500000, -1294.500000]
-[00:21:08] [Server thread/INFO]: [kayd12: Teleported kayd12 to DatVanTay007]
-[00:21:08] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to DatVanTay007]
-[00:23:09] [Server thread/INFO]: [kayd12: Set the time to 6000]
-[00:23:09] [Render thread/INFO]: [System] [CHAT] [kayd12: Set the time to 6000]
-[00:23:18] [Server thread/INFO]: [kayd12: Teleported kayd12 to 191.500000, 76.500000, -2036.500000]
-[00:23:18] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to 191.500000, 76.500000, -2036.500000]
-[00:23:34] [Server thread/INFO]: [kayd12: Teleported kayd12 to DatVanTay007]
-[00:23:34] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to DatVanTay007]
-[00:24:21] [Server thread/INFO]: [kayd12: Teleported kayd12 to asdhbasbd]
-[00:24:21] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to asdhbasbd]
-[00:24:43] [Server thread/INFO]: [kayd12: Teleported kayd12 to DatVanTay007]
-[00:24:43] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to DatVanTay007]
-[00:25:21] [Server thread/INFO]: [kayd12: Teleported kayd12 to 191.500000, 76.500000, -2036.500000]
-[00:25:21] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to 191.500000, 76.500000, -2036.500000]
-[00:26:47] [Server thread/INFO]: [kayd12: Teleported kayd12 to DatVanTay007]
-[00:26:48] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to DatVanTay007]
-[00:27:16] [Server thread/INFO]: [kayd12: Teleported kayd12 to 191.500000, 76.500000, -2036.500000]
-[00:27:16] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to 191.500000, 76.500000, -2036.500000]
-[00:27:21] [Server thread/INFO]: [kayd12: Set the time to 1100]
-[00:27:21] [Render thread/INFO]: [System] [CHAT] [kayd12: Set the time to 1100]
-[00:28:13] [Server thread/INFO]: [kayd12: Teleported kayd12 to DatVanTay007]
-[00:28:13] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to DatVanTay007]
-[00:28:22] [Server thread/INFO]: [kayd12: Teleported kayd12 to 89.500000, 63.500000, -2117.500000]
-[00:28:22] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to 89.500000, 63.500000, -2117.500000]
-[00:28:25] [Server thread/INFO]: [kayd12: Teleported kayd12 to DatVanTay007]
-[00:28:25] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to DatVanTay007]
-[00:29:03] [Server thread/INFO]: [kayd12: Teleported kayd12 to 89.500000, 63.500000, -2117.500000]
-[00:29:03] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to 89.500000, 63.500000, -2117.500000]
-[00:29:07] [Server thread/INFO]: [kayd12: Teleported kayd12 to DatVanTay007]
-[00:29:07] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to DatVanTay007]
-[00:29:13] [Server thread/INFO]: [kayd12: Teleported kayd12 to DatVanTay007]
-[00:29:13] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to DatVanTay007]
-[00:29:18] [Server thread/INFO]: [kayd12: Teleported kayd12 to 89.500000, 63.500000, -2117.500000]
-[00:29:18] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to 89.500000, 63.500000, -2117.500000]
-[00:29:21] [Server thread/INFO]: [kayd12: Teleported kayd12 to DatVanTay007]
-[00:29:21] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to DatVanTay007]
-[00:29:43] [Server thread/INFO]: [kayd12: Teleported kayd12 to 89.500000, 63.500000, -2117.500000]
-[00:29:43] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to 89.500000, 63.500000, -2117.500000]
-[00:29:49] [Server thread/INFO]: [kayd12: Teleported kayd12 to DatVanTay007]
-[00:29:49] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to DatVanTay007]
-[00:30:08] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to Adm1n2610]
-[00:30:08] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to Adm1n2610]
-[00:30:17] [Server thread/INFO]: [kayd12: Teleported kayd12 to 89.500000, 63.500000, -2117.500000]
-[00:30:17] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to 89.500000, 63.500000, -2117.500000]
-[00:30:20] [Server thread/INFO]: [kayd12: Teleported kayd12 to DatVanTay007]
-[00:30:20] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to DatVanTay007]
-[00:30:25] [Server thread/INFO]: [kayd12: Teleported kayd12 to 73.500000, 68.500000, -1306.500000]
-[00:30:25] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to 73.500000, 68.500000, -1306.500000]
-[00:30:35] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to 106.500000, 76.500000, -1318.500000]
-[00:30:35] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to 106.500000, 76.500000, -1318.500000]
-[00:30:40] [Server thread/INFO]: [kayd12: Teleported kayd12 to 89.500000, 63.500000, -2117.500000]
-[00:30:40] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to 89.500000, 63.500000, -2117.500000]
-[00:30:46] [Server thread/INFO]: [kayd12: Teleported kayd12 to DatVanTay007]
-[00:30:46] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to DatVanTay007]
-[00:31:54] [Server thread/INFO]: [kayd12: Gave 2 [TNT] to DatVanTay007]
-[00:31:54] [Render thread/INFO]: [System] [CHAT] [kayd12: Gave 2 [TNT] to DatVanTay007]
-[00:32:14] [Server thread/INFO]: [kayd12: Gave 1 experience levels to asdhbasbd]
-[00:32:14] [Render thread/INFO]: [System] [CHAT] [kayd12: Gave 1 experience levels to asdhbasbd]
-[00:32:23] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to 106.500000, 76.500000, -1318.500000]
-[00:32:23] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to 106.500000, 76.500000, -1318.500000]
-[00:33:40] [Server thread/INFO]: kayd12 was killed
-[00:33:40] [Server thread/INFO]: [kayd12: Killed kayd12]
-[00:33:40] [Render thread/INFO]: [System] [CHAT] kayd12 was killed
-[00:33:40] [Render thread/INFO]: [System] [CHAT] [kayd12: Killed kayd12]
-[00:33:45] [Server thread/INFO]: [kayd12: Teleported kayd12 to DatVanTay007]
-[00:33:45] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to DatVanTay007]
-[00:33:55] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to 106.500000, 76.500000, -1318.500000]
-[00:33:55] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to 106.500000, 76.500000, -1318.500000]
-[00:34:37] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to Adm1n2610]
-[00:34:37] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to Adm1n2610]
-[00:34:50] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to 106.500000, 76.500000, -1318.500000]
-[00:34:50] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to 106.500000, 76.500000, -1318.500000]
-[00:35:04] [Server thread/INFO]: kayd12 was blown up by Creeper
-[00:35:04] [Render thread/INFO]: [System] [CHAT] kayd12 was blown up by Creeper
-[00:35:15] [Server thread/INFO]: [kayd12: Teleported kayd12 to 147.500000, 41.500000, -1303.500000]
-[00:35:15] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to 147.500000, 41.500000, -1303.500000]
-[00:36:12] [Server thread/INFO]: kayd12 was blown up by Creeper
-[00:36:12] [Render thread/INFO]: [System] [CHAT] kayd12 was blown up by Creeper
-[00:36:16] [Server thread/INFO]: [kayd12: Teleported kayd12 to 154.500000, 42.500000, -1308.500000]
-[00:36:16] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to 154.500000, 42.500000, -1308.500000]
-[00:36:42] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to 106.500000, 76.500000, -1318.500000]
-[00:36:42] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to 106.500000, 76.500000, -1318.500000]
-[00:37:10] [Server thread/INFO]: [DatVanTay007: Set the time to 1000]
-[00:37:10] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Set the time to 1000]
-[00:37:24] [Server thread/INFO]: kayd12 was killed
-[00:37:24] [Server thread/INFO]: [kayd12: Killed kayd12]
-[00:37:24] [Render thread/INFO]: [System] [CHAT] kayd12 was killed
-[00:37:24] [Render thread/INFO]: [System] [CHAT] [kayd12: Killed kayd12]
-[00:37:27] [Server thread/INFO]: [kayd12: Teleported kayd12 to asdhbasbd]
-[00:37:27] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to asdhbasbd]
-[00:37:45] [Server thread/INFO]: [kayd12: Teleported kayd12 to DatVanTay007]
-[00:37:45] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to DatVanTay007]
-[00:38:40] [Server thread/INFO]: [kayd12: Teleported kayd12 to 191.500000, 76.500000, -2036.500000]
-[00:38:40] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to 191.500000, 76.500000, -2036.500000]
-[00:38:41] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to 106.500000, 76.500000, -1318.500000]
-[00:38:41] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to 106.500000, 76.500000, -1318.500000]
-[00:38:50] [Server thread/INFO]: [kayd12: Teleported kayd12 to DatVanTay007]
-[00:38:50] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to DatVanTay007]
-[00:39:04] [Server thread/INFO]: [asdhbasbd: Gave 1000 [Stone Bricks] to asdhbasbd]
-[00:39:04] [Render thread/INFO]: [System] [CHAT] [asdhbasbd: Gave 1000 [Stone Bricks] to asdhbasbd]
-[00:39:45] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to Adm1n2610]
-[00:39:45] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to Adm1n2610]
-[00:40:00] [Server thread/INFO]: [kayd12: Teleported kayd12 to 191.500000, 76.500000, -2036.500000]
-[00:40:00] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to 191.500000, 76.500000, -2036.500000]
-[00:41:15] [Render thread/WARN]: [OptiFine] *** Exception outside of method ***
-[00:41:15] [Render thread/WARN]: [OptiFine] Method deactivated: public static net.minecraftforge.event.PlayLevelSoundEvent$AtEntity net.minecraftforge.event.ForgeEventFactory.onPlaySoundAtEntity(net.minecraft.world.level.Level,net.minecraft.world.entity.Entity,net.minecraft.core.Holder,net.minecraft.sounds.SoundSource,float,float)
-[00:41:15] [Render thread/WARN]: [OptiFine] *** IllegalArgumentException ***
-[00:41:15] [Render thread/WARN]: [OptiFine] Method: null
-[00:41:15] [Render thread/WARN]: [OptiFine] Object: null
-[00:41:15] [Render thread/WARN]: [OptiFine] Parameter classes: class net.minecraft.world.entity.animal.happyghast.HappyGhast, class net.minecraft.core.Holder$Reference, class net.minecraft.sounds.SoundSource, class java.lang.Float, class java.lang.Float
-[00:41:15] [Render thread/WARN]: [OptiFine] Parameters: HappyGhast['Happy Ghast'/104632, l='ClientLevel', x=185.50, y=71.00, z=-2045.50], Reference{ResourceKey[minecraft:sound_event / minecraft:entity.ghastling.spawn]=SoundEvent[location=minecraft:entity.ghastling.spawn, fixedRange=Optional.empty]}, BLOCKS, 1.0, 1.0
-[00:41:15] [Render thread/WARN]: [OptiFine] 
-java.lang.IllegalArgumentException: wrong number of arguments: 5 expected: 6
+[09:14:56] [main/INFO]: ModLauncher running: args [--username, Adm1n2610, --version, Server, --gameDir, C:\Users\PC\AppData\Roaming\.minecraft\versions\Server, --assetsDir, C:\Users\PC\AppData\Roaming\.minecraft\assets, --assetIndex, 29, --uuid, 9c9ff003-113a-11f1-8ede-9c6b00470e68, --accessToken, **********, --clientId, null, --xuid, null, --versionType, modified, --width, 925, --height, 530, --launchTarget, forge_client]
+[09:14:56] [main/INFO]: JVM identified as Microsoft OpenJDK 64-Bit Server VM 21.0.7+6-LTS
+[09:14:56] [main/INFO]: ModLauncher 10.2.4 starting: java version 21.0.7 by Microsoft; OS Windows 10 arch amd64 version 10.0
+[09:14:56] [main/INFO]: Loading ImmediateWindowProvider fmlearlywindow
+[09:14:56] [main/INFO]: Trying GL version 4.6
+[09:14:57] [main/INFO]: Requested GL version 4.6 got version 4.6
+[09:14:57] [main/INFO]: OptiFineTransformationService.onLoad
+[09:14:57] [main/INFO]: OptiFine ZIP file URL: jar:file:///C:/Users/PC/AppData/Roaming/.minecraft/versions/Server/mods/preview_OptiFine_1.21.11_HD_U_J9_pre4.jar!/
+[09:14:57] [main/INFO]: OptiFine ZIP file: C:\Users\PC\AppData\Roaming\.minecraft\versions\Server\mods\preview_OptiFine_1.21.11_HD_U_J9_pre4.jar
+[09:14:57] [main/INFO]: Target.PRE_CLASS is available
+[09:14:57] [EarlyDisplay/INFO]: GL info: NVIDIA GeForce RTX 3050/PCIe/SSE2 GL version 4.6.0 NVIDIA 576.02, NVIDIA Corporation
+[09:14:57] [main/INFO]: Forge JAR URL: file:/C:/Users/PC/AppData/Roaming/.minecraft/libraries/net/minecraftforge/forge/1.21.11-61.1.0/forge-1.21.11-61.1.0-client.jar
+[09:14:57] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///C:/Users/PC/AppData/Roaming/.minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=CLIENT
+[09:14:57] [main/INFO]: OptiFineTransformationService.initialize
+[09:14:57] [main/INFO]: Found mod file FallingTree-1.21.11-1.21.11.3.jar of type MOD with provider {mods folder locator at C:\Users\PC\AppData\Roaming\.minecraft\versions\Server\mods}
+[09:14:57] [main/INFO]: Found mod file tl_skin_cape_forge_1.21.11-1.38.jar of type MOD with provider {mods folder locator at C:\Users\PC\AppData\Roaming\.minecraft\versions\Server\mods}
+[09:14:57] [main/INFO]: Found mod file forge-1.21.11-61.1.0-client.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@72725ee1
+[09:14:57] [main/INFO]: Found mod file lowcodelanguage-1.21.11-61.1.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.ClasspathLocator@60325987
+[09:14:57] [main/INFO]: Found mod file javafmllanguage-1.21.11-61.1.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.ClasspathLocator@60325987
+[09:14:57] [main/INFO]: Found mod file mclanguage-1.21.11-61.1.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.ClasspathLocator@60325987
+[09:14:57] [main/INFO]: Found mod file forge-1.21.11-61.1.0-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.ClasspathLocator@60325987
+[09:14:57] [main/INFO]: Found mod file fmlcore-1.21.11-61.1.0.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.ClasspathLocator@60325987
+[09:14:57] [main/INFO]: Found 2 dependencies adding them to mods collection
+[09:14:57] [main/INFO]: Found mod file mixinextras-forge-0.5.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@59dc36d4
+[09:14:57] [main/INFO]: Found mod file /MixinExtras-0.5.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@59dc36d4
+[09:14:58] [main/INFO]: OptiFineTransformationService.transformers
+[09:14:58] [main/INFO]: Targets: 568
+[09:14:58] [main/INFO]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[09:14:58] [main/INFO]: Launching target 'forge_client' with arguments [--version, Server, --gameDir, C:\Users\PC\AppData\Roaming\.minecraft\versions\Server, --assetsDir, C:\Users\PC\AppData\Roaming\.minecraft\assets, --uuid, 9c9ff003-113a-11f1-8ede-9c6b00470e68, --username, Adm1n2610, --assetIndex, 29, --accessToken, **********, --clientId, null, --xuid, null, --versionType, modified, --width, 925, --height, 530]
+[09:14:59] [Datafixer Bootstrap/INFO]: 287 Datafixer optimizations took 390 milliseconds
+[09:15:00] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.3).
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:root
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:sound_event
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:fluid
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:particle_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:attribute
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:mob_effect
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:block
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:enchantment_effect_component_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:entity_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:loot_score_provider_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:loot_number_provider_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:map_decoration_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:loot_pool_entry_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:loot_nbt_provider_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:loot_function_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:data_component_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:item
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:game_event
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:debug_subscription
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:potion
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:block_entity_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:stat_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:custom_stat
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:chunk_status
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:rule_test
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:rule_block_entity_modifier
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:pos_rule_test
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:menu
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:recipe_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:recipe_serializer
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:position_source_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:command_argument_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:villager_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:villager_profession
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:point_of_interest_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:memory_module_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:sensor_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:activity
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:loot_condition_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:float_provider_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:int_provider_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:height_provider_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:block_predicate_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:worldgen/carver
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:worldgen/structure_processor
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:worldgen/feature
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:worldgen/structure_placement
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:worldgen/structure_piece
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:worldgen/structure_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:worldgen/placement_modifier_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:worldgen/block_state_provider_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:worldgen/foliage_placer_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:worldgen/trunk_placer_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:worldgen/root_placer_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:worldgen/tree_decorator_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:worldgen/feature_size_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:worldgen/biome_source
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:worldgen/chunk_generator
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:worldgen/material_condition
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:worldgen/material_rule
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:worldgen/density_function_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:block_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:worldgen/structure_pool_element
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:worldgen/pool_alias_binding
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:decorated_pot_pattern
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:creative_mode_tab
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:trigger_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:number_format_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:game_rule
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:entity_sub_predicate_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:data_component_predicate_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:enchantment_level_based_value_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:enchantment_entity_effect_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:enchantment_location_based_effect_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:enchantment_value_effect_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:enchantment_provider_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:consume_effect_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:recipe_display
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:slot_display
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:recipe_book_category
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:ticket_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:incoming_rpc_methods
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:outgoing_rpc_methods
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:test_environment_definition_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:test_instance_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:spawn_condition_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:dialog_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:dialog_action_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:input_control_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:dialog_body_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:permission_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:permission_check_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:attribute_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:environment_attribute
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:slot_source_type
+[09:15:03] [pool-6-thread-1/INFO]: 	minecraft:test_function
+[09:15:03] [Render thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[09:15:03] [Render thread/INFO]: Setting user: Adm1n2610
+[09:15:03] [Render thread/INFO]: [OptiFine] (Reflector) Class not present: net.minecraft.launchwrapper.Launch
+[09:15:03] [Render thread/INFO]: [OptiFine] Forge version: 61.1.0
+[09:15:03] [Render thread/INFO]: [OptiFine] Forge version above 47.0.3, antialiasing disabled
+[09:15:03] [Render thread/INFO]: Backend library: LWJGL version 3.3.3+5
+[09:15:04] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: sun.misc.SharedSecrets
+[09:15:04] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: jdk.internal.misc.SharedSecrets
+[09:15:04] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.ClassNotFoundException: sun.misc.VM
+[09:15:04] [Render thread/WARN]: [OptiFine] (Reflector) java.lang.reflect.InaccessibleObjectException: Unable to make public static long jdk.internal.misc.VM.maxDirectMemory() accessible: module java.base does not "exports jdk.internal.misc" to module srg
+[09:15:04] [Render thread/INFO]: [OptiFine] 
+[09:15:04] [Render thread/INFO]: [OptiFine] OptiFine_1.21.11_HD_U_J9_pre4
+[09:15:04] [Render thread/INFO]: [OptiFine] Build: 20260203-212607
+[09:15:04] [Render thread/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[09:15:04] [Render thread/INFO]: [OptiFine] Java: 21.0.7, Microsoft
+[09:15:04] [Render thread/INFO]: [OptiFine] VM: OpenJDK 64-Bit Server VM (mixed mode), Microsoft
+[09:15:04] [Render thread/INFO]: [OptiFine] LWJGL: 3.4.0 Win32 WGL Null EGL OSMesa VisualC DLL
+[09:15:04] [Render thread/INFO]: [OptiFine] OpenGL: NVIDIA GeForce RTX 3050/PCIe/SSE2, version 4.6.0 NVIDIA 576.02, NVIDIA Corporation
+[09:15:04] [Render thread/INFO]: [OptiFine] OpenGL Version: 4.6.0
+[09:15:04] [Render thread/INFO]: [OptiFine] Maximum texture size: 32768x32768
+[09:15:04] [VersionCheck/INFO]: [OptiFine] Checking for new version
+[09:15:04] [Render thread/INFO]: [Shaders] OpenGL Version: 4.6.0 NVIDIA 576.02
+[09:15:04] [Render thread/INFO]: [Shaders] Vendor:  NVIDIA Corporation
+[09:15:04] [Render thread/INFO]: [Shaders] Renderer: NVIDIA GeForce RTX 3050/PCIe/SSE2
+[09:15:04] [Render thread/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[09:15:04] [Render thread/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[09:15:04] [Render thread/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS: 8
+[09:15:04] [Render thread/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[09:15:04] [Render thread/INFO]: [Shaders] Load shaders configuration.
+[09:15:04] [Render thread/INFO]: [Shaders] Save shaders configuration.
+[09:15:04] [Render thread/INFO]: [Shaders] No shaderpack loaded.
+[09:15:04] [Render thread/INFO]: [OptiFine] [Shaders] Delayed loading of item mappings after resources are loaded
+[09:15:04] [Render thread/INFO]: [OptiFine] [Shaders] Delayed loading of entity mappings after resources are loaded
+[09:15:04] [Render thread/INFO]: Using optional rendering extensions: GL_ARB_buffer_storage, GL_KHR_debug, GL_ARB_vertex_attrib_binding, GL_ARB_direct_state_access, GL_EXT_texture_filter_anisotropic
+[09:15:04] [modloading-worker-0/INFO]: Forge mod loading, version 61.1.0, for MC 1.21.11 with MCP 20251223.124241
+[09:15:04] [modloading-worker-0/INFO]: MinecraftForge v61.1.0 Initialized
+[09:15:04] [modloading-worker-0/INFO]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[09:15:04] [VersionCheck/INFO]: [OptiFine] Version found: J9
+[09:15:04] [Render thread/INFO]: Keep logo texture for ForgeLoadingOverlay: 11, 512x512, DT, fbo: -1
+[09:15:04] [Render thread/INFO]: Reloading ResourceManager: vanilla, mod_resources
+[09:15:04] [Render thread/INFO]: [OptiFine] *** Reloading resources ***
+[09:15:04] [Render thread/INFO]: [OptiFine] *** Reloading textures ***
+[09:15:04] [Worker-Main-5/WARN]: [OptiFine] Resource not found: minecraft:shaders/post/fxaa_of_2x.json
+[09:15:04] [Worker-Main-5/WARN]: [OptiFine] Resource not found: minecraft:shaders/post/fxaa_of_4x.json
+[09:15:04] [Worker-Main-11/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/celestials.png
+[09:15:04] [Worker-Main-7/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/paintings.png
+[09:15:04] [Worker-Main-10/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/chest.png
+[09:15:04] [Worker-Main-11/INFO]: [OptiFine] Multitexture: false
+[09:15:04] [Worker-Main-2/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/decorated_pot.png
+[09:15:04] [Worker-Main-10/INFO]: [OptiFine] Multitexture: false
+[09:15:04] [Worker-Main-7/INFO]: [OptiFine] Multitexture: false
+[09:15:04] [Worker-Main-2/INFO]: [OptiFine] Multitexture: false
+[09:15:04] [Worker-Main-8/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/shield_patterns.png
+[09:15:04] [Worker-Main-8/INFO]: [OptiFine] Multitexture: false
+[09:15:04] [Worker-Main-6/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/particles.png
+[09:15:04] [Worker-Main-6/INFO]: [OptiFine] Multitexture: false
+[09:15:04] [Worker-Main-4/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/armor_trims.png
+[09:15:04] [Worker-Main-4/INFO]: [OptiFine] Multitexture: false
+[09:15:04] [Worker-Main-9/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/blocks.png
+[09:15:04] [Worker-Main-9/INFO]: [OptiFine] Multitexture: false
+[09:15:04] [Worker-Main-9/INFO]: [OptiFine] Register block sprites
+[09:15:04] [Worker-Main-9/INFO]: [OptiFine] Multipass connected textures: false
+[09:15:04] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_pane_white.properties
+[09:15:04] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_2, 3 -> 9
+[09:15:04] [Worker-Main-2/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/banner_patterns.png
+[09:15:04] [Worker-Main-2/INFO]: [OptiFine] Multitexture: false
+[09:15:04] [Worker-Main-11/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/beds.png
+[09:15:04] [Worker-Main-11/INFO]: [OptiFine] Multitexture: false
+[09:15:04] [Worker-Main-7/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/gui.png
+[09:15:04] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/00_glass_white/glass_white.properties
+[09:15:04] [Worker-Main-7/INFO]: [OptiFine] Multitexture: false
+[09:15:04] [Worker-Main-10/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/items.png
+[09:15:04] [Worker-Main-10/INFO]: [OptiFine] Multitexture: false
+[09:15:04] [Worker-Main-10/INFO]: [OptiFine] Register item sprites
+[09:15:04] [Worker-Main-11/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/map_decorations.png
+[09:15:04] [Worker-Main-11/INFO]: [OptiFine] Multitexture: false
+[09:15:04] [Worker-Main-11/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/signs.png
+[09:15:04] [Worker-Main-11/INFO]: [OptiFine] Multitexture: false
+[09:15:04] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_orange.properties
+[09:15:04] [Worker-Main-8/INFO]: [OptiFine] Pre-stitch: minecraft:textures/atlas/shulker_boxes.png
+[09:15:04] [Worker-Main-8/INFO]: [OptiFine] Multitexture: false
+[09:15:04] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/01_glass_orange/glass_pane_orange.properties
+[09:15:04] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_magenta.properties
+[09:15:04] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/02_glass_magenta/glass_pane_magenta.properties
+[09:15:04] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_light_blue.properties
+[09:15:04] [Render thread/INFO]: [OptiFine] *** Reflector Forge ***
+[09:15:04] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraft:container/bundle/bundle_progressbar_fill, 6 -> 12
+[09:15:04] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/03_glass_light_blue/glass_pane_light_blue.properties
+[09:15:05] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_pane_yellow.properties
+[09:15:05] [Worker-Main-2/INFO]: Found unifont_pua-17.0.01.hex, loading
+[09:15:05] [Worker-Main-11/INFO]: Found unifont_all_no_pua-17.0.01.hex, loading
+[09:15:05] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/04_glass_yellow/glass_yellow.properties
+[09:15:05] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_lime.properties
+[09:15:05] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/05_glass_lime/glass_pane_lime.properties
+[09:15:05] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pane_pink.properties
+[09:15:05] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraft:widget/scroller_background, 6 -> 12
+[09:15:05] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_1, 3 -> 9
+[09:15:05] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_0, 3 -> 9
+[09:15:05] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraft:container/bundle/bundle_progressbar_full, 6 -> 12
+[09:15:05] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_11, 3 -> 9
+[09:15:05] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_10, 3 -> 9
+[09:15:05] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraft:hud/locator_bar_arrow_up, 7 -> 14
+[09:15:05] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: minecraft:pale_oak_9, 5 -> 10
+[09:15:05] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraft:container/villager/scroller, 6 -> 12
+[09:15:05] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: minecraft:pale_oak_8, 5 -> 10
+[09:15:05] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: minecraft:pale_oak_3, 5 -> 10
+[09:15:05] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraft:widget/scroller, 6 -> 12
+[09:15:05] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: minecraft:pale_oak_2, 5 -> 10
+[09:15:05] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: minecraft:pale_oak_1, 5 -> 10
+[09:15:05] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraft:container/villager/scroller_disabled, 6 -> 12
+[09:15:05] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/06_glass_pink/glass_pink.properties
+[09:15:05] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: minecraft:pale_oak_0, 5 -> 10
+[09:15:05] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: minecraft:pale_oak_7, 5 -> 10
+[09:15:05] [Worker-Main-7/INFO]: [OptiFine] Scaled non power of 2: minecraft:hud/locator_bar_arrow_down, 7 -> 14
+[09:15:05] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: minecraft:pale_oak_6, 5 -> 10
+[09:15:05] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: minecraft:pale_oak_5, 5 -> 10
+[09:15:05] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: minecraft:pale_oak_4, 5 -> 10
+[09:15:05] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: minecraft:pale_oak_11, 5 -> 10
+[09:15:05] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: minecraft:pale_oak_10, 5 -> 10
+[09:15:05] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: minecraft:trial_omen, 5 -> 10
+[09:15:05] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: minecraft:raid_omen, 5 -> 10
+[09:15:05] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_6, 3 -> 9
+[09:15:05] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_5, 3 -> 9
+[09:15:05] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: minecraft:leaf_10, 5 -> 10
+[09:15:05] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_4, 3 -> 9
+[09:15:05] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_3, 3 -> 9
+[09:15:05] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_9, 3 -> 9
+[09:15:05] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_8, 3 -> 9
+[09:15:05] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: minecraft:leaf_11, 5 -> 10
+[09:15:05] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: minecraft:cherry_7, 3 -> 9
+[09:15:05] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: minecraft:leaf_7, 5 -> 10
+[09:15:05] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: minecraft:leaf_6, 5 -> 10
+[09:15:05] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: minecraft:leaf_9, 5 -> 10
+[09:15:05] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: minecraft:leaf_8, 5 -> 10
+[09:15:05] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: minecraft:leaf_1, 5 -> 10
+[09:15:05] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: minecraft:leaf_0, 5 -> 10
+[09:15:05] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_gray.properties
+[09:15:05] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: minecraft:leaf_3, 5 -> 10
+[09:15:05] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: minecraft:leaf_2, 5 -> 10
+[09:15:05] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: minecraft:leaf_5, 5 -> 10
+[09:15:05] [Worker-Main-6/INFO]: [OptiFine] Scaled non power of 2: minecraft:leaf_4, 5 -> 10
+[09:15:05] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/07_glass_gray/glass_pane_gray.properties
+[09:15:05] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_light_gray.properties
+[09:15:05] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/08_glass_light_gray/glass_pane_light_gray.properties
+[09:15:05] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_cyan.properties
+[09:15:05] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/09_glass_cyan/glass_pane_cyan.properties
+[09:15:05] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_pane_purple.properties
+[09:15:05] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/10_glass_purple/glass_purple.properties
+[09:15:05] [Download-1/INFO]: Could not authorize you against Realms server: java.lang.RuntimeException: Failed to parse into SignedJWT: null
+[09:15:05] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_blue.properties
+[09:15:05] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/11_glass_blue/glass_pane_blue.properties
+[09:15:05] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_brown.properties
+[09:15:05] [Download-1/ERROR]: Failed to fetch Realms feature flags
+com.mojang.realmsclient.exception.RealmsServiceException: Realms authentication error with message 'java.lang.RuntimeException: Failed to parse into SignedJWT: null'
+	at TRANSFORMER/minecraft@1.21.11/com.mojang.realmsclient.client.RealmsClient.execute(RealmsClient.java:526)
+	at TRANSFORMER/minecraft@1.21.11/com.mojang.realmsclient.client.RealmsClient.fetchFeatureFlags(RealmsClient.java:186)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+[09:15:05] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/12_glass_brown/glass_pane_brown.properties
+[09:15:05] [Render thread/INFO]: [OptiFine] *** Reflector Vanilla ***
+[09:15:05] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_green.properties
+[09:15:05] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/13_glass_green/glass_pane_green.properties
+[09:15:05] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_pane_red.properties
+[09:15:05] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/14_glass_red/glass_red.properties
+[09:15:05] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_black.properties
+[09:15:05] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/15_glass_black/glass_pane_black.properties
+[09:15:05] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass.properties
+[09:15:05] [Worker-Main-2/INFO]: Found unifont_jp_patch-17.0.01.hex, loading
+[09:15:05] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/20_glass/glass_pane.properties
+[09:15:05] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[09:15:05] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/21_tinted_glass/tinted_glass.properties
+[09:15:05] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/30_bookshelf/bookshelf.properties
+[09:15:05] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/40_sandstone/sandstone.properties
+[09:15:05] [Worker-Main-9/INFO]: [OptiFine] ConnectedTextures: optifine/ctm/default/41_red_sandstone/red_sandstone.properties
+[09:15:05] [Worker-Main-9/INFO]: [OptiFine] Multipass connected textures: false
+[09:15:05] [Worker-Main-9/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[09:15:05] [Worker-Main-7/INFO]: [OptiFine] CustomItems: Collecting model sprites
+[09:15:05] [Worker-Main-10/INFO]: [OptiFine] CustomItems: Registering sprites
+[09:15:05] [Forge Version Check/INFO]: [forge] Found status: UP_TO_DATE Current: 61.1.0 Target: null
+[09:15:06] [Worker-Main-9/INFO]: [OptiFine] Mipmap levels: 4
+[09:15:07] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (3- USB Audio Device)
+[09:15:07] [Render thread/INFO]: Sound engine started
+[09:15:07] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[09:15:07] [Render thread/INFO]: [OptiFine] Animated sprites: 1
+[09:15:07] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/decorated_pot.png-atlas
+[09:15:07] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[09:15:07] [Render thread/INFO]: Created: 2048x1024x0 minecraft:textures/atlas/armor_trims.png-atlas
+[09:15:07] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[09:15:07] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[09:15:07] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[09:15:07] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/shield_patterns.png-atlas
+[09:15:07] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[09:15:07] [Render thread/INFO]: Created: 4096x2048x4 minecraft:textures/atlas/blocks.png-atlas
+[09:15:07] [Render thread/INFO]: [OptiFine] Update block sprites
+[09:15:07] [Render thread/INFO]: [OptiFine] Animated sprites: 58
+[09:15:07] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/chest.png-atlas
+[09:15:07] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[09:15:07] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/celestials.png-atlas
+[09:15:07] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[09:15:07] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/banner_patterns.png-atlas
+[09:15:07] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[09:15:07] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/beds.png-atlas
+[09:15:07] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[09:15:07] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/items.png-atlas
+[09:15:07] [Render thread/INFO]: [OptiFine] Update item sprites
+[09:15:07] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[09:15:07] [Render thread/INFO]: Created: 1024x1024x0 minecraft:textures/atlas/gui.png-atlas
+[09:15:07] [Render thread/INFO]: [OptiFine] Animated sprites: 5
+[09:15:07] [Render thread/INFO]: Created: 128x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[09:15:07] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[09:15:07] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/signs.png-atlas
+[09:15:07] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[09:15:07] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/shulker_boxes.png-atlas
+[09:15:07] [Render thread/INFO]: [OptiFine] Animated sprites: 0
+[09:15:07] [Render thread/WARN]: Duplicate sprite minecraft:optifine/ctm/default/empty from atlas minecraft:textures/atlas/gui.png, already defined in atlas minecraft:textures/atlas/items.png. This will be rejected in a future version
+[09:15:07] [Render thread/WARN]: Duplicate sprite minecraft:optifine/ctm/default/empty from atlas minecraft:textures/atlas/beds.png, already defined in atlas minecraft:textures/atlas/items.png. This will be rejected in a future version
+[09:15:07] [Render thread/WARN]: Duplicate sprite minecraft:optifine/ctm/default/empty from atlas minecraft:textures/atlas/paintings.png, already defined in atlas minecraft:textures/atlas/items.png. This will be rejected in a future version
+[09:15:07] [Render thread/WARN]: Duplicate sprite minecraft:optifine/ctm/default/empty from atlas minecraft:textures/atlas/shulker_boxes.png, already defined in atlas minecraft:textures/atlas/items.png. This will be rejected in a future version
+[09:15:07] [Render thread/WARN]: Duplicate sprite minecraft:optifine/ctm/default/empty from atlas minecraft:textures/atlas/signs.png, already defined in atlas minecraft:textures/atlas/items.png. This will be rejected in a future version
+[09:15:07] [Render thread/WARN]: Duplicate sprite minecraft:optifine/ctm/default/empty from atlas minecraft:textures/atlas/chest.png, already defined in atlas minecraft:textures/atlas/items.png. This will be rejected in a future version
+[09:15:07] [Render thread/WARN]: Duplicate sprite minecraft:optifine/ctm/default/empty from atlas minecraft:textures/atlas/particles.png, already defined in atlas minecraft:textures/atlas/items.png. This will be rejected in a future version
+[09:15:07] [Render thread/WARN]: Duplicate sprite minecraft:optifine/ctm/default/empty from atlas minecraft:textures/atlas/celestials.png, already defined in atlas minecraft:textures/atlas/items.png. This will be rejected in a future version
+[09:15:07] [Render thread/WARN]: Duplicate sprite minecraft:optifine/ctm/default/empty from atlas minecraft:textures/atlas/shield_patterns.png, already defined in atlas minecraft:textures/atlas/items.png. This will be rejected in a future version
+[09:15:07] [Render thread/WARN]: Duplicate sprite minecraft:optifine/ctm/default/empty from atlas minecraft:textures/atlas/decorated_pot.png, already defined in atlas minecraft:textures/atlas/items.png. This will be rejected in a future version
+[09:15:07] [Render thread/WARN]: Duplicate sprite minecraft:optifine/ctm/default/empty from atlas minecraft:textures/atlas/map_decorations.png, already defined in atlas minecraft:textures/atlas/items.png. This will be rejected in a future version
+[09:15:07] [Render thread/WARN]: Duplicate sprite minecraft:optifine/ctm/default/empty from atlas minecraft:textures/atlas/blocks.png, already defined in atlas minecraft:textures/atlas/items.png. This will be rejected in a future version
+[09:15:07] [Render thread/WARN]: Duplicate sprite minecraft:optifine/ctm/default/empty from atlas minecraft:textures/atlas/banner_patterns.png, already defined in atlas minecraft:textures/atlas/items.png. This will be rejected in a future version
+[09:15:07] [Render thread/WARN]: Duplicate sprite minecraft:optifine/ctm/default/empty from atlas minecraft:textures/atlas/armor_trims.png, already defined in atlas minecraft:textures/atlas/items.png. This will be rejected in a future version
+[09:15:08] [Render thread/INFO]: [OptiFine] *** Reloading custom textures ***
+[09:15:08] [Render thread/INFO]: [OptiFine] Disable Forge light pipeline
+[09:15:08] [IO-Worker-1/INFO]: Could not authorize you against Realms server: java.lang.RuntimeException: Failed to parse into SignedJWT: null
+[09:15:08] [IO-Worker-1/ERROR]: Couldn't connect to realms
+com.mojang.realmsclient.exception.RealmsServiceException: Realms authentication error with message 'java.lang.RuntimeException: Failed to parse into SignedJWT: null'
+	at TRANSFORMER/minecraft@1.21.11/com.mojang.realmsclient.client.RealmsClient.execute(RealmsClient.java:526)
+	at TRANSFORMER/minecraft@1.21.11/com.mojang.realmsclient.client.RealmsClient.clientCompatible(RealmsClient.java:307)
+	at TRANSFORMER/minecraft@1.21.11/com.mojang.realmsclient.RealmsAvailability.lambda$check$0(RealmsAvailability.java:48)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+[09:15:09] [pool-12-thread-1/INFO]: check internet connection https://auth.tlauncher.org/skin/api/check.bin timeout 1500 ms
+[09:15:10] [pool-12-thread-1/INFO]: passed auth.tlauncher.org within 575 ms
+[09:15:31] [Render thread/INFO]: Injecting existing registry data into this CLIENT instance
+[09:15:32] [Render thread/INFO]: Loaded 1470 recipes
+[09:15:32] [Render thread/INFO]: Loaded 1584 advancements
+[09:15:32] [Render thread/INFO]: Disconnected from server, resetting proxy config values
+[09:15:32] [Server thread/INFO]: Starting integrated minecraft server version 1.21.11
+[09:15:32] [Server thread/INFO]: Generating keypair
+[09:15:33] [Server thread/INFO]: Loading 0 persistent chunks...
+[09:15:33] [Server thread/INFO]: Preparing spawn area: 16%
+[09:15:33] [Server thread/INFO]: Successfully initialized permission handler forge:default_handler
+[09:15:34] [Server thread/INFO]: Loading 49 chunks for player spawn...
+[09:15:34] [Server thread/INFO]: Preparing spawn area: 16%
+[09:15:34] [Server thread/INFO]: Time elapsed: 766 ms
+[09:15:34] [Render thread/INFO]: Connected to a modded server.
+[09:15:34] [Server thread/INFO]: Adm1n2610[local:E:87b419e9] logged in with entity id 43 at (184.49423008515845, 78.11650136792812, -2037.4070209595877)
+[09:15:34] [Server thread/INFO]: Adm1n2610 joined the game
+[09:15:34] [Server thread/INFO]: Player connected to a local world, not setting up proxy config
+[09:15:34] [Render thread/INFO]: Loaded 10 advancements
+[09:15:34] [Server thread/INFO]: Changing view distance to 16, from 10
+[09:15:34] [Server thread/INFO]: Changing simulation distance to 8, from 0
+[09:15:34] [Render thread/INFO]: [System] [CHAT] A new §eOptiFine§f version is available: §eï¿½nHD Ultra J9ï¿½r§f
+[09:15:35] [Render thread/INFO]: Resizing Dynamic Transforms UBO, capacity limit of 2 reached during a single frame. New capacity will be 4.
+[09:15:35] [Render thread/INFO]: Resizing Dynamic Transforms UBO, capacity limit of 4 reached during a single frame. New capacity will be 8.
+[09:15:35] [pool-11-thread-1/INFO]: do head request -> https://auth.tlauncher.org/skin/v1/profile/texture/login/Adm1n2610 RequestMetadata(lastModified=null, eTag=W/27f588f51b80c4e0e6e2a6907ee6fccd, sha1=cdcbc3c32c0ac7f0b4f66029b4f89e51c41ea88b, lastAccessAt=1771944862170) local file C:\Users\PC\AppData\Roaming\.minecraft\versions\Server\cache\https_auth.tlauncher.org\skin\v1\profile\texture\login\Adm1n2610
+[09:15:35] [Render thread/INFO]: Resizing Chunk Sections UBO, capacity limit of 2 reached during a single frame. New capacity will be 8.
+[09:15:35] [Render thread/WARN]: [OptiFine] *** Exception outside of method ***
+[09:15:35] [Render thread/WARN]: [OptiFine] Method deactivated: public static void net.minecraftforge.client.ForgeHooksClient.onCustomizeChatEvent(net.minecraft.client.gui.GuiGraphics,net.minecraft.client.gui.components.ChatComponent,com.mojang.blaze3d.platform.Window,int,int,int,net.minecraft.client.gui.Font)
+[09:15:35] [Render thread/WARN]: [OptiFine] *** IllegalArgumentException ***
+[09:15:35] [Render thread/WARN]: [OptiFine] Method: null
+[09:15:35] [Render thread/WARN]: [OptiFine] Object: null
+[09:15:35] [Render thread/WARN]: [OptiFine] Parameter classes: class net.minecraft.client.gui.GuiGraphics, class net.minecraft.client.gui.components.ChatComponent, class com.mojang.blaze3d.platform.Window, class java.lang.Integer, class java.lang.Integer, class java.lang.Integer
+[09:15:35] [Render thread/WARN]: [OptiFine] Parameters: net.minecraft.client.gui.GuiGraphics@25daa0a0, net.minecraft.client.gui.components.ChatComponent@1efc6a80, com.mojang.blaze3d.platform.Window@4137ff9f, 231, 132, 571
+[09:15:35] [Render thread/WARN]: [OptiFine] 
+java.lang.IllegalArgumentException: wrong number of arguments: 6 expected: 7
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.checkArgumentCount(DirectMethodHandleAccessor.java:329)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:101)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at TRANSFORMER/srg/net.optifine.reflect.Reflector.callVoid(Reflector.java:565)
+	at TRANSFORMER/srg/net.optifine.reflect.ReflectorMethod.callVoid(ReflectorMethod.java:231)
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.client.gui.Gui.renderChat(Gui.java:460)
+	at TRANSFORMER/net.minecraftforge.forge@61.1.0/net.minecraftforge.client.gui.overlay.ForgeLayeredDraw.render(ForgeLayeredDraw.java:378)
+	at TRANSFORMER/net.minecraftforge.forge@61.1.0/net.minecraftforge.client.gui.overlay.ForgeLayeredDraw.lambda$resolveNested$16(ForgeLayeredDraw.java:307)
+	at TRANSFORMER/net.minecraftforge.forge@61.1.0/net.minecraftforge.client.gui.overlay.ForgeLayeredDraw.render(ForgeLayeredDraw.java:378)
+	at TRANSFORMER/net.minecraftforge.forge@61.1.0/net.minecraftforge.client.gui.overlay.ForgeLayeredDraw.beginRender(ForgeLayeredDraw.java:372)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
 	at TRANSFORMER/srg/net.optifine.reflect.Reflector.call(Reflector.java:729)
 	at TRANSFORMER/srg/net.optifine.reflect.ReflectorMethod.call(ReflectorMethod.java:133)
-	at TRANSFORMER/minecraft@1.21.11/net.minecraft.client.multiplayer.ClientLevel.playSeededSound(ClientLevel.java:698)
-	at TRANSFORMER/minecraft@1.21.11/net.minecraft.client.multiplayer.ClientPacketListener.handleSoundEntityEvent(ClientPacketListener.java:2102)
-	at TRANSFORMER/minecraft@1.21.11/net.minecraft.network.protocol.game.ClientboundSoundEntityPacket.handle(ClientboundSoundEntityPacket.java:56)
-	at TRANSFORMER/minecraft@1.21.11/net.minecraft.network.protocol.game.ClientboundSoundEntityPacket.handle(ClientboundSoundEntityPacket.java:12)
-	at TRANSFORMER/minecraft@1.21.11/net.minecraft.network.PacketProcessor$ListenerAndPacket.handle(PacketProcessor.java:99)
-	at TRANSFORMER/minecraft@1.21.11/net.minecraft.network.PacketProcessor.processQueuedPackets(PacketProcessor.java:77)
-	at TRANSFORMER/minecraft@1.21.11/net.minecraft.client.Minecraft.runTick(Minecraft.java:1256)
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.client.gui.Gui.render(Gui.java:215)
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.client.renderer.GameRenderer.render(GameRenderer.java:735)
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.client.Minecraft.runTick(Minecraft.java:1313)
 	at TRANSFORMER/minecraft@1.21.11/net.minecraft.client.Minecraft.run(Minecraft.java:893)
 	at TRANSFORMER/minecraft@1.21.11/net.minecraft.client.main.Main.main(Main.java:223)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
@@ -197,414 +436,388 @@ java.lang.IllegalArgumentException: wrong number of arguments: 5 expected: 6
 	at net.minecraftforge.bootstrap.Bootstrap.bootstrapMain(Bootstrap.java:133)
 	at net.minecraftforge.bootstrap.Bootstrap.start(Bootstrap.java:53)
 	at net.minecraftforge.bootstrap.ForgeBootstrap.main(ForgeBootstrap.java:19)
-[00:42:04] [Server thread/INFO]: [kayd12: Teleported kayd12 to -4135.500000, 70.500000, -903.500000]
-[00:42:04] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to -4135.500000, 70.500000, -903.500000]
-[00:43:18] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to 106.500000, 76.500000, -1318.500000]
-[00:43:18] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to 106.500000, 76.500000, -1318.500000]
-[00:43:57] [Server thread/INFO]: [kayd12: Teleported kayd12 to DatVanTay007]
-[00:43:57] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to DatVanTay007]
-[00:44:41] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to Adm1n2610]
-[00:44:41] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to Adm1n2610]
-[00:44:49] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to 106.500000, 76.500000, -1318.500000]
-[00:44:49] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to 106.500000, 76.500000, -1318.500000]
-[00:45:49] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to 106.500000, 76.500000, -1318.500000]
-[00:45:49] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to 106.500000, 76.500000, -1318.500000]
-[00:46:21] [Server thread/INFO]: [kayd12: Set own game mode to Spectator Mode]
-[00:46:21] [Render thread/INFO]: [System] [CHAT] [kayd12: Set own game mode to Spectator Mode]
-[00:46:33] [Server thread/INFO]: [kayd12: Set the time to 1000]
-[00:46:33] [Render thread/INFO]: [System] [CHAT] [kayd12: Set the time to 1000]
-[00:47:28] [Server thread/INFO]: [kayd12: Set own game mode to Survival Mode]
-[00:47:28] [Render thread/INFO]: [System] [CHAT] [kayd12: Set own game mode to Survival Mode]
-[00:50:51] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to asdhbasbd]
-[00:50:51] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to asdhbasbd]
-[00:51:28] [Server thread/INFO]: [Not Secure] <asdhbasbd> tra t
-[00:51:29] [Render thread/INFO]: [Not Secure] [CHAT] <asdhbasbd> tra t
-[00:51:29] [Server thread/INFO]: [Not Secure] <asdhbasbd> t
-[00:51:29] [Render thread/INFO]: [Not Secure] [CHAT] <asdhbasbd> t
-[00:51:32] [Server thread/INFO]: [Not Secure] <asdhbasbd> xay nhha
-[00:51:32] [Render thread/INFO]: [Not Secure] [CHAT] <asdhbasbd> xay nhha
-[00:51:49] [Server thread/INFO]: asdhbasbd was slain by DatVanTay007
-[00:51:49] [Render thread/INFO]: [System] [CHAT] asdhbasbd was slain by DatVanTay007
-[00:52:12] [Server thread/INFO]: DatVanTay007 was slain by asdhbasbd
-[00:52:12] [Render thread/INFO]: [System] [CHAT] DatVanTay007 was slain by asdhbasbd
-[00:53:44] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to 59.500000, 65.500000, -1294.500000]
-[00:53:44] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to 59.500000, 65.500000, -1294.500000]
-[00:55:42] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to Adm1n2610]
-[00:55:42] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to Adm1n2610]
-[00:55:53] [Server thread/INFO]: [DatVanTay007: Set the time to 1000]
-[00:55:53] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Set the time to 1000]
-[00:57:16] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to 59.500000, 65.500000, -1294.500000]
-[00:57:16] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to 59.500000, 65.500000, -1294.500000]
-[00:57:59] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to Adm1n2610]
-[00:57:59] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to Adm1n2610]
-[00:58:33] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to 59.500000, 65.500000, -1294.500000]
-[00:58:33] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to 59.500000, 65.500000, -1294.500000]
-[01:00:34] [Server thread/INFO]: Villager Villager['Villager'/105933, l='ServerLevel[New World]', x=112.24, y=68.00, z=-1313.65] died, message: 'Villager blew up'
-[01:01:17] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to Adm1n2610]
-[01:01:17] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to Adm1n2610]
-[01:01:23] [Server thread/INFO]: kayd12 fell from a high place
-[01:01:23] [Render thread/INFO]: [System] [CHAT] kayd12 fell from a high place
-[01:01:27] [Server thread/INFO]: [kayd12: Teleported kayd12 to 114.500000, 77.500000, -1319.500000]
-[01:01:27] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to 114.500000, 77.500000, -1319.500000]
-[01:02:00] [Server thread/INFO]: [kayd12: Teleported kayd12 to DatVanTay007]
-[01:02:00] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to DatVanTay007]
-[01:02:33] [Server thread/INFO]: [kayd12: Teleported kayd12 to 114.500000, 77.500000, -1319.500000]
-[01:02:33] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to 114.500000, 77.500000, -1319.500000]
-[01:03:00] [Server thread/INFO]: [asdhbasbd: Gave 2000 [Cobblestone] to asdhbasbd]
-[01:03:00] [Render thread/INFO]: [System] [CHAT] [asdhbasbd: Gave 2000 [Cobblestone] to asdhbasbd]
-[01:03:39] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to 59.500000, 65.500000, -1294.500000]
-[01:03:39] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to 59.500000, 65.500000, -1294.500000]
-[01:05:51] [Server thread/INFO]: [DatVanTay007: Set the time to 1000]
-[01:05:51] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Set the time to 1000]
-[01:06:25] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to Adm1n2610]
-[01:06:25] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to Adm1n2610]
-[01:06:45] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to 59.500000, 65.500000, -1294.500000]
-[01:06:45] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to 59.500000, 65.500000, -1294.500000]
-[01:11:34] [Server thread/INFO]: [kayd12: Teleported kayd12 to asdhbasbd]
-[01:11:34] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to asdhbasbd]
-[01:12:16] [Server thread/INFO]: [kayd12: Teleported kayd12 to 114.500000, 77.500000, -1319.500000]
-[01:12:16] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to 114.500000, 77.500000, -1319.500000]
-[01:14:45] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to Adm1n2610]
-[01:14:45] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to Adm1n2610]
-[01:15:42] [Server thread/INFO]: [kayd12: Gave 64 [Block of Iron] to DatVanTay007]
-[01:15:42] [Render thread/INFO]: [System] [CHAT] [kayd12: Gave 64 [Block of Iron] to DatVanTay007]
-[01:16:03] [Server thread/INFO]: [kayd12: Set the time to 1000]
-[01:16:03] [Render thread/INFO]: [System] [CHAT] [kayd12: Set the time to 1000]
-[01:16:03] [Server thread/INFO]: [DatVanTay007: Set the time to 1000]
-[01:16:03] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Set the time to 1000]
-[01:16:15] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to 59.500000, 65.500000, -1294.500000]
-[01:16:15] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to 59.500000, 65.500000, -1294.500000]
-[01:21:19] [Server thread/INFO]: [kayd12: Teleported kayd12 to asdhbasbd]
-[01:21:19] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to asdhbasbd]
-[01:25:34] [Server thread/INFO]: [kayd12: Set the time to 1000]
-[01:25:34] [Render thread/INFO]: [System] [CHAT] [kayd12: Set the time to 1000]
-[01:26:01] [Server thread/INFO]: [kayd12: Teleported kayd12 to 191.500000, 76.500000, -2036.500000]
-[01:26:01] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to 191.500000, 76.500000, -2036.500000]
-[01:28:01] [Server thread/INFO]: [kayd12: Gave 2 [Block of Iron] to kayd12]
-[01:28:01] [Render thread/INFO]: [System] [CHAT] [kayd12: Gave 2 [Block of Iron] to kayd12]
-[01:28:55] [User Authenticator #10/WARN]: Failed to verify username but will let them in anyway!
-[01:28:56] [Server thread/INFO]: FratelloNguyen[/26.195.116.32:50099] logged in with entity id 128394 at (-198.5, 78.0, -107.5)
-[01:28:56] [Server thread/INFO]: FratelloNguyen joined the game
-[01:28:56] [Server thread/INFO]: Player connected to a local world, not setting up proxy config
-[01:28:56] [Render thread/INFO]: [System] [CHAT] FratelloNguyen joined the game
-[01:28:59] [Server thread/INFO]: kayd12 was killed
-[01:28:59] [Server thread/INFO]: [kayd12: Killed kayd12]
-[01:29:00] [Render thread/INFO]: [System] [CHAT] kayd12 was killed
-[01:29:00] [Render thread/INFO]: [System] [CHAT] [kayd12: Killed kayd12]
-[01:29:03] [Server thread/INFO]: [kayd12: Teleported kayd12 to DatVanTay007]
-[01:29:03] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to DatVanTay007]
-[01:31:01] [Server thread/INFO]: [FratelloNguyen: Teleported FratelloNguyen to asdhbasbd]
-[01:31:01] [Render thread/INFO]: [System] [CHAT] [FratelloNguyen: Teleported FratelloNguyen to asdhbasbd]
-[01:32:21] [pool-11-thread-1/INFO]: do get request https://auth.tlauncher.org/skin/v1/profile/texture/login/FratelloNguyen, saved to C:\Users\Sun of the Beach\AppData\Roaming\.minecraft\versions\Server\cache\https_auth.tlauncher.org\skin\v1\profile\texture\login\FratelloNguyen
-[01:32:21] [pool-11-thread-1/INFO]: do get request https://auth.tlauncher.org/skin/fileservice/skins/skin_fratellonguyen.png, saved to C:\Users\Sun of the Beach\AppData\Roaming\.minecraft\versions\Server\cache\https_auth.tlauncher.org\skin\fileservice\skins\skin_fratellonguyen.png
-[01:32:49] [Server thread/INFO]: FratelloNguyen was killed
-[01:32:49] [Server thread/INFO]: [asdhbasbd: Killed FratelloNguyen]
-[01:32:49] [Render thread/INFO]: [System] [CHAT] FratelloNguyen was killed
-[01:32:49] [Render thread/INFO]: [System] [CHAT] [asdhbasbd: Killed FratelloNguyen]
-[01:32:50] [Server thread/INFO]: [DatVanTay007: Killed FratelloNguyen]
-[01:32:50] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Killed FratelloNguyen]
-[01:32:55] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to FratelloNguyen]
-[01:32:55] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to FratelloNguyen]
-[01:33:02] [Server thread/INFO]: [FratelloNguyen: Teleported FratelloNguyen to Adm1n2610]
-[01:33:02] [Render thread/INFO]: [System] [CHAT] [FratelloNguyen: Teleported FratelloNguyen to Adm1n2610]
-[01:33:22] [Server thread/INFO]: [kayd12: Set the time to 1000]
-[01:33:22] [Render thread/INFO]: [System] [CHAT] [kayd12: Set the time to 1000]
-[01:33:44] [Server thread/INFO]: FratelloNguyen has made the advancement [Suit Up]
-[01:33:44] [Render thread/INFO]: [System] [CHAT] FratelloNguyen has made the advancement [Suit Up]
-[01:33:54] [Server thread/INFO]: FratelloNguyen has made the advancement [Diamonds!]
-[01:33:54] [Render thread/INFO]: [System] [CHAT] FratelloNguyen has made the advancement [Diamonds!]
-[01:35:13] [Server thread/INFO]: [kayd12: Teleported kayd12 to FratelloNguyen]
-[01:35:13] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to FratelloNguyen]
-[01:35:14] [pool-11-thread-1/INFO]: do head request -> https://auth.tlauncher.org/skin/v1/profile/texture/login/kayd12 RequestMetadata(lastModified=null, eTag=W/fa2bce81c084cbfa3c284a986b375c9d, sha1=6cbe412b8f0e3c76c9b51e2c35c46fc58c0a9317, lastAccessAt=1771946520163) local file C:\Users\Sun of the Beach\AppData\Roaming\.minecraft\versions\Server\cache\https_auth.tlauncher.org\skin\v1\profile\texture\login\kayd12
-[01:35:14] [pool-11-thread-1/INFO]: do head request -> https://auth.tlauncher.org/skin/fileservice/skins/skin_kayd12.png RequestMetadata(lastModified=null, eTag=35ec5927e56427962dc43ee71fc0e2d8, sha1=ca4c6ee541b69011093c0ac25436c6553233cd1c, lastAccessAt=1771946520500) local file C:\Users\Sun of the Beach\AppData\Roaming\.minecraft\versions\Server\cache\https_auth.tlauncher.org\skin\fileservice\skins\skin_kayd12.png
-[01:35:16] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to Adm1n2610]
-[01:35:16] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to Adm1n2610]
-[01:35:17] [pool-11-thread-1/INFO]: do head request -> https://auth.tlauncher.org/skin/v1/profile/texture/login/DatVanTay007 RequestMetadata(lastModified=null, eTag=W/fbcfcd6a5c3904e9961d2503a2dba030, sha1=83716c925f4a72559750234ac613f4c62b834dde, lastAccessAt=1771945524180) local file C:\Users\Sun of the Beach\AppData\Roaming\.minecraft\versions\Server\cache\https_auth.tlauncher.org\skin\v1\profile\texture\login\DatVanTay007
-[01:35:17] [pool-11-thread-1/INFO]: do head request -> https://auth.tlauncher.org/skin/fileservice/skins/skin_datvantay007.png RequestMetadata(lastModified=null, eTag=2b57ccad24c434e1ab30a52ad24ae5ef, sha1=c9145c2a668de2a1534558819771024433767d9e, lastAccessAt=1771945524479) local file C:\Users\Sun of the Beach\AppData\Roaming\.minecraft\versions\Server\cache\https_auth.tlauncher.org\skin\fileservice\skins\skin_datvantay007.png
-[01:35:36] [Server thread/INFO]: FratelloNguyen has made the advancement [Cover Me with Diamonds]
-[01:35:36] [Render thread/INFO]: [System] [CHAT] FratelloNguyen has made the advancement [Cover Me with Diamonds]
-[01:35:43] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to 59.500000, 65.500000, -1294.500000]
-[01:35:43] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to 59.500000, 65.500000, -1294.500000]
-[01:37:51] [Server thread/INFO]: [kayd12: Teleported kayd12 to DatVanTay007]
-[01:37:51] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to DatVanTay007]
-[01:38:09] [Server thread/INFO]: FratelloNguyen has made the advancement [We Need to Go Deeper]
-[01:38:09] [Render thread/INFO]: [System] [CHAT] FratelloNguyen has made the advancement [We Need to Go Deeper]
-[01:38:44] [Server thread/INFO]: FratelloNguyen was shot by Piglin
-[01:38:44] [Render thread/INFO]: [System] [CHAT] FratelloNguyen was shot by Piglin
-[01:39:03] [Server thread/INFO]: [kayd12: Teleported kayd12 to Adm1n2610]
-[01:39:03] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to Adm1n2610]
-[01:40:37] [Server thread/INFO]: [kayd12: Teleported kayd12 to FratelloNguyen]
-[01:40:37] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to FratelloNguyen]
-[01:41:10] [Server thread/INFO]: [DatVanTay007: Set the time to 13000]
-[01:41:10] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Set the time to 13000]
-[01:41:15] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to -265.500000, 90.500000, -3350.500000]
-[01:41:15] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to -265.500000, 90.500000, -3350.500000]
-[01:41:55] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to Adm1n2610]
-[01:41:55] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to Adm1n2610]
-[01:41:59] [Server thread/INFO]: [kayd12: Teleported kayd12 to Adm1n2610]
-[01:41:59] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to Adm1n2610]
-[01:42:06] [Server thread/INFO]: [kayd12: Set the time to 1000]
-[01:42:06] [Render thread/INFO]: [System] [CHAT] [kayd12: Set the time to 1000]
-[01:42:19] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to -265.500000, 90.500000, -3350.500000]
-[01:42:19] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to -265.500000, 90.500000, -3350.500000]
-[01:42:20] [Server thread/INFO]: [FratelloNguyen: Teleported FratelloNguyen to Adm1n2610]
-[01:42:20] [Render thread/INFO]: [System] [CHAT] [FratelloNguyen: Teleported FratelloNguyen to Adm1n2610]
-[01:42:30] [Server thread/INFO]: [DatVanTay007: Set the time to 13000]
-[01:42:30] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Set the time to 13000]
-[01:43:05] [Server thread/INFO]: [asdhbasbd: Set the time to 1000]
-[01:43:05] [Render thread/INFO]: [System] [CHAT] [asdhbasbd: Set the time to 1000]
-[01:43:34] [Server thread/INFO]: [DatVanTay007: Set the time to 13000]
-[01:43:35] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Set the time to 13000]
-[01:43:44] [Server thread/INFO]: FratelloNguyen was slain by Hoglin
-[01:43:44] [Render thread/INFO]: [System] [CHAT] FratelloNguyen was slain by Hoglin
-[01:43:52] [Server thread/INFO]: kayd12 hit the ground too hard
-[01:43:52] [Render thread/INFO]: [System] [CHAT] kayd12 hit the ground too hard
-[01:44:48] [Server thread/INFO]: [kayd12: Teleported kayd12 to DatVanTay007]
-[01:44:48] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to DatVanTay007]
-[01:45:24] [Server thread/INFO]: [DatVanTay007: Set the time to 6000]
-[01:45:24] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Set the time to 6000]
-[01:45:34] [Server thread/INFO]: [DatVanTay007: Set the time to 18000]
-[01:45:34] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Set the time to 18000]
-[01:45:55] [Server thread/INFO]: kayd12 was blown up by Creeper
-[01:45:55] [Render thread/INFO]: [System] [CHAT] kayd12 was blown up by Creeper
-[01:46:01] [Server thread/INFO]: [kayd12: Teleported kayd12 to DatVanTay007]
-[01:46:01] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to DatVanTay007]
-[01:46:47] [Server thread/INFO]: [asdhbasbd: Gave 64 [Carrot] to FratelloNguyen]
-[01:46:47] [Render thread/INFO]: [System] [CHAT] [asdhbasbd: Gave 64 [Carrot] to FratelloNguyen]
-[01:49:23] [Server thread/INFO]: [asdhbasbd: Gave 128 [Baked Potato] to FratelloNguyen]
-[01:49:23] [Render thread/INFO]: [System] [CHAT] [asdhbasbd: Gave 128 [Baked Potato] to FratelloNguyen]
-[01:49:44] [Server thread/INFO]: kayd12 was killed
-[01:49:44] [Server thread/INFO]: [kayd12: Killed kayd12]
-[01:49:44] [Render thread/INFO]: [System] [CHAT] kayd12 was killed
-[01:49:44] [Render thread/INFO]: [System] [CHAT] [kayd12: Killed kayd12]
-[01:49:48] [Server thread/INFO]: [kayd12: Teleported kayd12 to DatVanTay007]
-[01:49:49] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to DatVanTay007]
-[01:50:59] [Server thread/INFO]: [kayd12: Set the time to 18000]
-[01:50:59] [Render thread/INFO]: [System] [CHAT] [kayd12: Set the time to 18000]
-[01:51:20] [Server thread/INFO]: DatVanTay007 was killed by Witch using magic
-[01:51:20] [Render thread/INFO]: [System] [CHAT] DatVanTay007 was killed by Witch using magic
-[01:51:27] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to -81.500000, 62.500000, -3406.500000]
-[01:51:27] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to -81.500000, 62.500000, -3406.500000]
-[01:51:46] [Server thread/INFO]: DatVanTay007 was killed by Witch using magic
-[01:51:47] [Render thread/INFO]: [System] [CHAT] DatVanTay007 was killed by Witch using magic
-[01:51:51] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to -75.500000, 61.500000, -3427.500000]
-[01:51:51] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to -75.500000, 61.500000, -3427.500000]
-[01:53:22] [Server thread/INFO]: kayd12 was slain by Drowned
-[01:53:22] [Render thread/INFO]: [System] [CHAT] kayd12 was slain by Drowned
-[01:54:11] [Server thread/INFO]: Locating element #minecraft:allows_surface_slime_spawns (minecraft:swamp) took 417 ms
-[01:54:22] [Server thread/INFO]: [kayd12: Teleported kayd12 to -1242.500000, 71.000000, -683.500000]
-[01:54:22] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to -1242.500000, 71.000000, -683.500000]
-[01:55:10] [Server thread/INFO]: [kayd12: Set the time to 18000]
-[01:55:11] [Render thread/INFO]: [System] [CHAT] [kayd12: Set the time to 18000]
-[01:55:35] [Server thread/INFO]: kayd12 was slain by Zombie
-[01:55:35] [Render thread/INFO]: [System] [CHAT] kayd12 was slain by Zombie
-[01:55:48] [Server thread/INFO]: [kayd12: Teleported kayd12 to -1222.500000, 64.500000, -668.500000]
-[01:55:48] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to -1222.500000, 64.500000, -668.500000]
-[01:56:27] [Server thread/INFO]: FratelloNguyen has made the advancement [Monster Hunter]
-[01:56:27] [Render thread/INFO]: [System] [CHAT] FratelloNguyen has made the advancement [Monster Hunter]
-[01:56:32] [Server thread/INFO]: DatVanTay007 was blown up by Creeper
-[01:56:32] [Render thread/INFO]: [System] [CHAT] DatVanTay007 was blown up by Creeper
-[01:56:36] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to 59.500000, 62.500000, -3535.500000]
-[01:56:36] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to 59.500000, 62.500000, -3535.500000]
-[01:56:57] [Server thread/INFO]: Locating element #minecraft:allows_surface_slime_spawns (minecraft:swamp) took 0 ms
-[01:57:01] [Server thread/INFO]: [kayd12: Teleported kayd12 to DatVanTay007]
-[01:57:01] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to DatVanTay007]
-[01:57:44] [Server thread/INFO]: [FratelloNguyen: Teleported FratelloNguyen to DatVanTay007]
-[01:57:45] [Render thread/INFO]: [System] [CHAT] [FratelloNguyen: Teleported FratelloNguyen to DatVanTay007]
-[01:57:59] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to 59.500000, 65.500000, -1294.500000]
-[01:57:59] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to 59.500000, 65.500000, -1294.500000]
-[01:58:01] [Server thread/INFO]: [kayd12: Set the time to 1100]
-[01:58:02] [Render thread/INFO]: [System] [CHAT] [kayd12: Set the time to 1100]
-[01:58:06] [Server thread/INFO]: [kayd12: Teleported kayd12 to 114.500000, 77.500000, -1319.500000]
-[01:58:06] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to 114.500000, 77.500000, -1319.500000]
-[01:58:19] [Server thread/INFO]: FratelloNguyen was killed
-[01:58:19] [Server thread/INFO]: [kayd12: Killed FratelloNguyen]
-[01:58:19] [Render thread/INFO]: [System] [CHAT] FratelloNguyen was killed
-[01:58:19] [Render thread/INFO]: [System] [CHAT] [kayd12: Killed FratelloNguyen]
-[01:58:23] [Server thread/INFO]: kayd12 was killed
-[01:58:23] [Server thread/INFO]: [kayd12: Killed kayd12]
-[01:58:23] [Render thread/INFO]: [System] [CHAT] kayd12 was killed
-[01:58:23] [Render thread/INFO]: [System] [CHAT] [kayd12: Killed kayd12]
-[01:58:35] [Server thread/INFO]: [kayd12: Teleported kayd12 to 114.500000, 77.500000, -1319.500000]
-[01:58:35] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to 114.500000, 77.500000, -1319.500000]
-[01:59:09] [Server thread/INFO]: [FratelloNguyen: Teleported FratelloNguyen to asdhbasbd]
-[01:59:09] [Render thread/INFO]: [System] [CHAT] [FratelloNguyen: Teleported FratelloNguyen to asdhbasbd]
-[01:59:18] [Server thread/INFO]: [kayd12: Teleported FratelloNguyen to DatVanTay007]
-[01:59:18] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported FratelloNguyen to DatVanTay007]
-[02:03:05] [Server thread/WARN]: FratelloNguyen moved too quickly! -0.0014081306476327882,-7.233632006042484,-7.127020364640657
-[02:04:35] [Server thread/INFO]: [kayd12: Teleported FratelloNguyen to asdhbasbd]
-[02:04:36] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported FratelloNguyen to asdhbasbd]
-[02:05:23] [Server thread/INFO]: [kayd12: Teleported kayd12 to 146.500000, 39.500000, -1330.500000]
-[02:05:23] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to 146.500000, 39.500000, -1330.500000]
-[02:06:11] [Server thread/INFO]: [kayd12: Teleported kayd12 to 114.500000, 77.500000, -1319.500000]
-[02:06:11] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to 114.500000, 77.500000, -1319.500000]
-[02:06:19] [Server thread/INFO]: [kayd12: Teleported kayd12 to FratelloNguyen]
-[02:06:19] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to FratelloNguyen]
-[02:06:42] [Server thread/INFO]: [FratelloNguyen: Teleported FratelloNguyen to asdhbasbd]
-[02:06:42] [Render thread/INFO]: [System] [CHAT] [FratelloNguyen: Teleported FratelloNguyen to asdhbasbd]
-[02:07:12] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to -187.500000, 71.500000, -105.500000]
-[02:07:12] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to -187.500000, 71.500000, -105.500000]
-[02:07:34] [Server thread/INFO]: [kayd12: Set the time to 1000]
-[02:07:34] [Render thread/INFO]: [System] [CHAT] [kayd12: Set the time to 1000]
-[02:07:35] [Server thread/INFO]: [kayd12: Teleported kayd12 to DatVanTay007]
-[02:07:35] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to DatVanTay007]
-[02:07:52] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to Adm1n2610]
-[02:07:52] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to Adm1n2610]
-[02:08:01] [Server thread/INFO]: [kayd12: Teleported kayd12 to asdhbasbd]
-[02:08:01] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to asdhbasbd]
-[02:08:05] [Server thread/INFO]: [kayd12: Teleported kayd12 to Adm1n2610]
-[02:08:06] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to Adm1n2610]
-[02:10:31] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to 59.500000, 65.500000, -1294.500000]
-[02:10:31] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to 59.500000, 65.500000, -1294.500000]
-[02:10:38] [Server thread/INFO]: [asdhbasbd: Teleported DatVanTay007 to FratelloNguyen]
-[02:10:38] [Render thread/INFO]: [System] [CHAT] [asdhbasbd: Teleported DatVanTay007 to FratelloNguyen]
-[02:10:52] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to 59.500000, 65.500000, -1294.500000]
-[02:10:52] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to 59.500000, 65.500000, -1294.500000]
-[02:10:54] [Server thread/INFO]: [kayd12: Teleported kayd12 to DatVanTay007]
-[02:10:54] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to DatVanTay007]
-[02:11:06] [Server thread/INFO]: [kayd12: Teleported kayd12 to FratelloNguyen]
-[02:11:06] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to FratelloNguyen]
-[02:11:12] [Server thread/INFO]: FratelloNguyen was doomed to fall by kayd12
-[02:11:12] [Render thread/INFO]: [System] [CHAT] FratelloNguyen was doomed to fall by kayd12
-[02:11:20] [Server thread/INFO]: [kayd12: Teleported FratelloNguyen to kayd12]
-[02:11:20] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported FratelloNguyen to kayd12]
-[02:11:29] [Server thread/INFO]: kayd12 fell from a high place
-[02:11:29] [Render thread/INFO]: [System] [CHAT] kayd12 fell from a high place
-[02:11:48] [Server thread/INFO]: [kayd12: Teleported kayd12 to DatVanTay007]
-[02:11:48] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to DatVanTay007]
-[02:12:04] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to asdhbasbd]
-[02:12:04] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to asdhbasbd]
-[02:12:23] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to 59.500000, 65.500000, -1294.500000]
-[02:12:23] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to 59.500000, 65.500000, -1294.500000]
-[02:13:01] [Server thread/INFO]: [kayd12: Teleported asdhbasbd to FratelloNguyen]
-[02:13:01] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported asdhbasbd to FratelloNguyen]
-[02:13:04] [Server thread/INFO]: [kayd12: Teleported kayd12 to Adm1n2610]
-[02:13:04] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to Adm1n2610]
-[02:13:05] [Server thread/INFO]: asdhbasbd fell from a high place
-[02:13:05] [Render thread/INFO]: [System] [CHAT] asdhbasbd fell from a high place
-[02:13:06] [pool-11-thread-1/INFO]: do head request -> https://auth.tlauncher.org/skin/v1/profile/texture/login/asdhbasbd RequestMetadata(lastModified=null, eTag=W/b809aba98b160a2ff46f47e6b036e1f7, sha1=e46e3b8a3e77ab6a75b459a32dc91b10d112db62, lastAccessAt=1771946168877) local file C:\Users\Sun of the Beach\AppData\Roaming\.minecraft\versions\Server\cache\https_auth.tlauncher.org\skin\v1\profile\texture\login\asdhbasbd
-[02:13:06] [pool-11-thread-1/INFO]: do head request -> https://auth.tlauncher.org/skin/fileservice/skins/skin_asdhbasbd.png RequestMetadata(lastModified=null, eTag=36b749e8bd04240318edb84cc70e8178, sha1=11688b07b07bca6cf27975811a0f3cdbfd75cd14, lastAccessAt=1771946169224) local file C:\Users\Sun of the Beach\AppData\Roaming\.minecraft\versions\Server\cache\https_auth.tlauncher.org\skin\fileservice\skins\skin_asdhbasbd.png
-[02:13:36] [Server thread/INFO]: [asdhbasbd: Teleported asdhbasbd to FratelloNguyen]
-[02:13:36] [Render thread/INFO]: [System] [CHAT] [asdhbasbd: Teleported asdhbasbd to FratelloNguyen]
-[02:14:06] [Server thread/INFO]: [kayd12: Teleported kayd12 to asdhbasbd]
-[02:14:06] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to asdhbasbd]
-[02:14:15] [Server thread/INFO]: [kayd12: Teleported kayd12 to asdhbasbd]
-[02:14:15] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to asdhbasbd]
-[02:14:22] [Server thread/INFO]: asdhbasbd was doomed to fall by kayd12
-[02:14:22] [Render thread/INFO]: [System] [CHAT] asdhbasbd was doomed to fall by kayd12
-[02:14:36] [Server thread/INFO]: kayd12 fell from a high place
-[02:14:36] [Render thread/INFO]: [System] [CHAT] kayd12 fell from a high place
-[02:14:50] [Server thread/INFO]: [kayd12: Teleported kayd12 to FratelloNguyen]
-[02:14:50] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to FratelloNguyen]
-[02:15:09] [Server thread/INFO]: [DatVanTay007: Gave 5 [Glass] to DatVanTay007]
-[02:15:09] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Gave 5 [Glass] to DatVanTay007]
-[02:15:39] [Server thread/INFO]: [kayd12: Set the time to 1000]
-[02:15:39] [Render thread/INFO]: [System] [CHAT] [kayd12: Set the time to 1000]
-[02:15:42] [Server thread/INFO]: [kayd12: Teleported kayd12 to DatVanTay007]
-[02:15:42] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to DatVanTay007]
-[02:16:35] [Server thread/INFO]: [Not Secure] <kayd12> "/"
-[02:16:35] [Render thread/INFO]: [Not Secure] [CHAT] <kayd12> "/"
-[02:16:47] [Server thread/INFO]: [Not Secure] <kayd12> weather clear
-[02:16:47] [Render thread/INFO]: [Not Secure] [CHAT] <kayd12> weather clear
-[02:16:59] [Server thread/INFO]: [FratelloNguyen: Set the weather to clear]
-[02:16:59] [Render thread/INFO]: [System] [CHAT] [FratelloNguyen: Set the weather to clear]
-[02:17:08] [Server thread/INFO]: [Not Secure] <kayd12> time set day
-[02:17:08] [Render thread/INFO]: [Not Secure] [CHAT] <kayd12> time set day
-[02:17:56] [Server thread/INFO]: [asdhbasbd: Teleported asdhbasbd to FratelloNguyen]
-[02:17:56] [Render thread/INFO]: [System] [CHAT] [asdhbasbd: Teleported asdhbasbd to FratelloNguyen]
-[02:18:38] [Server thread/INFO]: asdhbasbd fell from a high place
-[02:18:38] [Render thread/INFO]: [System] [CHAT] asdhbasbd fell from a high place
-[02:20:19] [Server thread/INFO]: [FratelloNguyen: Teleported FratelloNguyen to asdhbasbd]
-[02:20:19] [Render thread/INFO]: [System] [CHAT] [FratelloNguyen: Teleported FratelloNguyen to asdhbasbd]
-[02:21:06] [Server thread/INFO]: DatVanTay007 fell from a high place
-[02:21:06] [Render thread/INFO]: [System] [CHAT] DatVanTay007 fell from a high place
-[02:21:08] [pool-11-thread-1/INFO]: do head request -> https://auth.tlauncher.org/skin/v1/profile/texture/login/DatVanTay007 RequestMetadata(lastModified=null, eTag=W/fbcfcd6a5c3904e9961d2503a2dba030, sha1=83716c925f4a72559750234ac613f4c62b834dde, lastAccessAt=1771958117152) local file C:\Users\Sun of the Beach\AppData\Roaming\.minecraft\versions\Server\cache\https_auth.tlauncher.org\skin\v1\profile\texture\login\DatVanTay007
-[02:21:08] [pool-11-thread-1/INFO]: do head request -> https://auth.tlauncher.org/skin/fileservice/skins/skin_datvantay007.png RequestMetadata(lastModified=null, eTag=2b57ccad24c434e1ab30a52ad24ae5ef, sha1=c9145c2a668de2a1534558819771024433767d9e, lastAccessAt=1771958117375) local file C:\Users\Sun of the Beach\AppData\Roaming\.minecraft\versions\Server\cache\https_auth.tlauncher.org\skin\fileservice\skins\skin_datvantay007.png
-[02:21:12] [Server thread/INFO]: [DatVanTay007: Teleported DatVanTay007 to 103.500000, 69.500000, -1286.500000]
-[02:21:12] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Teleported DatVanTay007 to 103.500000, 69.500000, -1286.500000]
-[02:21:24] [pool-11-thread-1/INFO]: do head request -> https://auth.tlauncher.org/skin/v1/profile/texture/login/asdhbasbd RequestMetadata(lastModified=null, eTag=W/b809aba98b160a2ff46f47e6b036e1f7, sha1=e46e3b8a3e77ab6a75b459a32dc91b10d112db62, lastAccessAt=1771960386600) local file C:\Users\Sun of the Beach\AppData\Roaming\.minecraft\versions\Server\cache\https_auth.tlauncher.org\skin\v1\profile\texture\login\asdhbasbd
-[02:21:25] [pool-11-thread-1/INFO]: do head request -> https://auth.tlauncher.org/skin/fileservice/skins/skin_asdhbasbd.png RequestMetadata(lastModified=null, eTag=36b749e8bd04240318edb84cc70e8178, sha1=11688b07b07bca6cf27975811a0f3cdbfd75cd14, lastAccessAt=1771960386864) local file C:\Users\Sun of the Beach\AppData\Roaming\.minecraft\versions\Server\cache\https_auth.tlauncher.org\skin\fileservice\skins\skin_asdhbasbd.png
-[02:22:11] [Server thread/INFO]: FratelloNguyen has made the advancement [Stone Age]
-[02:22:11] [Render thread/INFO]: [System] [CHAT] FratelloNguyen has made the advancement [Stone Age]
-[02:24:47] [Server thread/INFO]: [kayd12: Gave 64 [Glass] to DatVanTay007]
-[02:24:47] [Render thread/INFO]: [System] [CHAT] [kayd12: Gave 64 [Glass] to DatVanTay007]
-[02:25:01] [Server thread/INFO]: [FratelloNguyen: Set the time to 1000]
-[02:25:01] [Render thread/INFO]: [System] [CHAT] [FratelloNguyen: Set the time to 1000]
-[02:25:22] [Server thread/INFO]: [FratelloNguyen: Set the time to 6000]
-[02:25:22] [Render thread/INFO]: [System] [CHAT] [FratelloNguyen: Set the time to 6000]
-[02:26:11] [Server thread/INFO]: [kayd12: Teleported kayd12 to 191.500000, 76.500000, -2036.500000]
-[02:26:11] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to 191.500000, 76.500000, -2036.500000]
-[02:26:11] [pool-11-thread-1/INFO]: do head request -> https://auth.tlauncher.org/skin/v1/profile/texture/login/kayd12 RequestMetadata(lastModified=null, eTag=W/fa2bce81c084cbfa3c284a986b375c9d, sha1=6cbe412b8f0e3c76c9b51e2c35c46fc58c0a9317, lastAccessAt=1771958114220) local file C:\Users\Sun of the Beach\AppData\Roaming\.minecraft\versions\Server\cache\https_auth.tlauncher.org\skin\v1\profile\texture\login\kayd12
-[02:26:12] [pool-11-thread-1/INFO]: do head request -> https://auth.tlauncher.org/skin/fileservice/skins/skin_kayd12.png RequestMetadata(lastModified=null, eTag=35ec5927e56427962dc43ee71fc0e2d8, sha1=ca4c6ee541b69011093c0ac25436c6553233cd1c, lastAccessAt=1771958114424) local file C:\Users\Sun of the Beach\AppData\Roaming\.minecraft\versions\Server\cache\https_auth.tlauncher.org\skin\fileservice\skins\skin_kayd12.png
-[02:26:22] [Server thread/INFO]: [kayd12: Teleported kayd12 to DatVanTay007]
-[02:26:23] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to DatVanTay007]
-[02:26:44] [Server thread/INFO]: [kayd12: Teleported kayd12 to 114.500000, 77.500000, -1319.500000]
-[02:26:44] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to 114.500000, 77.500000, -1319.500000]
-[02:27:39] [Server thread/INFO]: [FratelloNguyen: Teleported FratelloNguyen to Adm1n2610]
-[02:27:39] [Render thread/INFO]: [System] [CHAT] [FratelloNguyen: Teleported FratelloNguyen to Adm1n2610]
-[02:27:39] [pool-11-thread-1/INFO]: do head request -> https://auth.tlauncher.org/skin/v1/profile/texture/login/FratelloNguyen RequestMetadata(lastModified=null, eTag=W/0b2974ff79a4651e5697ee69257d61d5, sha1=c992e76bca5b3893ee28c1d4b70affac55d68289, lastAccessAt=1771957941440) local file C:\Users\Sun of the Beach\AppData\Roaming\.minecraft\versions\Server\cache\https_auth.tlauncher.org\skin\v1\profile\texture\login\FratelloNguyen
-[02:27:39] [pool-11-thread-1/INFO]: do head request -> https://auth.tlauncher.org/skin/fileservice/skins/skin_fratellonguyen.png RequestMetadata(lastModified=null, eTag=071de0cdb53aac890008f057f202b7f9, sha1=0423e1205366d07d9e19a5764a853cbc07025962, lastAccessAt=1771957941688) local file C:\Users\Sun of the Beach\AppData\Roaming\.minecraft\versions\Server\cache\https_auth.tlauncher.org\skin\fileservice\skins\skin_fratellonguyen.png
-[02:28:38] [Server thread/INFO]: [Not Secure] <asdhbasbd> cacttus
-[02:28:39] [Render thread/INFO]: [Not Secure] [CHAT] <asdhbasbd> cacttus
-[02:28:45] [Server thread/INFO]: [DatVanTay007: Gave 3 [Cactus] to DatVanTay007]
-[02:28:45] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Gave 3 [Cactus] to DatVanTay007]
-[02:29:03] [Server thread/INFO]: [FratelloNguyen: Teleported FratelloNguyen to asdhbasbd]
-[02:29:03] [Render thread/INFO]: [System] [CHAT] [FratelloNguyen: Teleported FratelloNguyen to asdhbasbd]
-[02:29:16] [Server thread/INFO]: [kayd12: Set the time to 1005]
-[02:29:16] [Render thread/INFO]: [System] [CHAT] [kayd12: Set the time to 1005]
-[02:29:54] [Server thread/INFO]: FratelloNguyen lost connection: Disconnected
-[02:29:54] [Server thread/INFO]: FratelloNguyen left the game
-[02:29:54] [Render thread/INFO]: [System] [CHAT] FratelloNguyen left the game
-[02:30:58] [Server thread/INFO]: [DatVanTay007: Gave 64 [Glass] to DatVanTay007]
-[02:30:58] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Gave 64 [Glass] to DatVanTay007]
-[02:32:52] [Server thread/INFO]: [kayd12: Gave 64 [Glass] to kayd12]
-[02:32:52] [Render thread/INFO]: [System] [CHAT] [kayd12: Gave 64 [Glass] to kayd12]
-[02:34:01] [Server thread/INFO]: kayd12 tried to swim in lava
-[02:34:01] [Render thread/INFO]: [System] [CHAT] kayd12 tried to swim in lava
-[02:34:04] [Server thread/INFO]: [kayd12: Teleported kayd12 to DatVanTay007]
-[02:34:04] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to DatVanTay007]
-[02:36:19] [Server thread/INFO]: [DatVanTay007: Set own game mode to Creative Mode]
-[02:36:19] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Set own game mode to Creative Mode]
-[02:38:40] [Server thread/INFO]: [DatVanTay007: Set own game mode to Survival Mode]
-[02:38:40] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Set own game mode to Survival Mode]
-[02:38:45] [Server thread/INFO]: [DatVanTay007: Set the time to 1000]
-[02:38:45] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Set the time to 1000]
-[02:42:30] [Server thread/INFO]: kayd12 lost connection: Disconnected
-[02:42:30] [Server thread/INFO]: kayd12 left the game
-[02:42:30] [Render thread/INFO]: [System] [CHAT] kayd12 left the game
-[02:42:41] [Server thread/INFO]: [DatVanTay007: Set own game mode to Creative Mode]
-[02:42:41] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Set own game mode to Creative Mode]
-[02:44:55] [Server thread/INFO]: [asdhbasbd: Gave 128 [Oak Wood] to asdhbasbd]
-[02:44:56] [Render thread/INFO]: [System] [CHAT] [asdhbasbd: Gave 128 [Oak Wood] to asdhbasbd]
-[02:48:44] [Server thread/INFO]: [asdhbasbd: Set the time to 1000]
-[02:48:44] [Render thread/INFO]: [System] [CHAT] [asdhbasbd: Set the time to 1000]
-[02:51:07] [Server thread/INFO]: [asdhbasbd: Gave 64 [Spruce Trapdoor] to asdhbasbd]
-[02:51:07] [Render thread/INFO]: [System] [CHAT] [asdhbasbd: Gave 64 [Spruce Trapdoor] to asdhbasbd]
-[02:52:34] [Server thread/INFO]: [DatVanTay007: Set own game mode to Survival Mode]
-[02:52:34] [Render thread/INFO]: [System] [CHAT] [DatVanTay007: Set own game mode to Survival Mode]
-[02:52:41] [Server thread/INFO]: [asdhbasbd: Set own game mode to Creative Mode]
-[02:52:41] [Render thread/INFO]: [System] [CHAT] [asdhbasbd: Set own game mode to Creative Mode]
-[02:59:33] [Server thread/INFO]: DatVanTay007 lost connection: Disconnected
-[02:59:33] [Server thread/INFO]: DatVanTay007 left the game
-[02:59:33] [Render thread/INFO]: [System] [CHAT] DatVanTay007 left the game
-[03:00:00] [Server thread/INFO]: [asdhbasbd: Set own game mode to Survival Mode]
-[03:00:00] [Render thread/INFO]: [System] [CHAT] [asdhbasbd: Set own game mode to Survival Mode]
-[03:00:04] [Server thread/INFO]: asdhbasbd lost connection: Disconnected
-[03:00:04] [Server thread/INFO]: asdhbasbd left the game
-[03:00:04] [Render thread/INFO]: [System] [CHAT] asdhbasbd left the game
-[03:00:40] [Render thread/INFO]: Disconnected from server, resetting proxy config values
-[03:00:40] [Server thread/INFO]: Adm1n2610 lost connection: Disconnected
-[03:00:40] [Server thread/INFO]: Adm1n2610 left the game
-[03:00:40] [Server thread/INFO]: Stopping singleplayer server as player logged out
-[03:00:41] [Server thread/INFO]: Stopping server
-[03:00:41] [Server thread/INFO]: Saving players
-[03:00:41] [Server thread/INFO]: Saving worlds
-[03:00:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[03:00:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[03:00:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[03:00:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World): All chunks are saved
-[03:00:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:00:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:00:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[03:00:50] [Render thread/INFO]: Stopping!
-[03:00:50] [Render thread/INFO]: Disconnected from server, resetting proxy config values
+[09:15:35] [Render thread/INFO]: Resizing Chunk Sections UBO, capacity limit of 8 reached during a single frame. New capacity will be 16.
+[09:15:35] [Render thread/INFO]: Resizing Dynamic Transforms UBO, capacity limit of 8 reached during a single frame. New capacity will be 16.
+[09:15:35] [Render thread/INFO]: calculated cape performance:TEXTURE_272, middle time: 2.5
+[09:15:35] [Render thread/INFO]: Resizing Chunk Sections UBO, capacity limit of 16 reached during a single frame. New capacity will be 32.
+[09:15:35] [pool-11-thread-1/INFO]: do head request -> https://auth.tlauncher.org/skin/fileservice/skins/skin_adm1n2610.png RequestMetadata(lastModified=null, eTag=fd5d1e367087d7ea27c0c38315a466a6, sha1=636453e2ec130f16b759036b8c2b4eb037838750, lastAccessAt=1771944862707) local file C:\Users\PC\AppData\Roaming\.minecraft\versions\Server\cache\https_auth.tlauncher.org\skin\fileservice\skins\skin_adm1n2610.png
+[09:15:35] [Render thread/INFO]: Resizing Chunk Sections UBO, capacity limit of 32 reached during a single frame. New capacity will be 64.
+[09:15:35] [Render thread/INFO]: Resizing Chunk Sections UBO, capacity limit of 64 reached during a single frame. New capacity will be 128.
+[09:15:36] [Render thread/INFO]: can use texture size:TEXTURE_272, middle time: 1.5
+[09:15:36] [Render thread/INFO]: Resizing Chunk Sections UBO, capacity limit of 128 reached during a single frame. New capacity will be 256.
+[09:15:37] [Render thread/INFO]: Resizing Chunk Sections UBO, capacity limit of 256 reached during a single frame. New capacity will be 512.
+[09:15:43] [Server thread/INFO]: Saving and pausing game...
+[09:15:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[09:15:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[09:15:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[09:15:50] [Server thread/INFO]: Saving and pausing game...
+[09:15:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[09:15:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[09:15:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[09:16:33] [Render thread/INFO]: Resizing Chunk Sections UBO, capacity limit of 512 reached during a single frame. New capacity will be 1024.
+[09:16:41] [Server thread/INFO]: [Adm1n2610: Set the time to 1000]
+[09:16:41] [Render thread/INFO]: [System] [CHAT] Set the time to 1000
+[09:16:44] [Server thread/INFO]: Saving and pausing game...
+[09:16:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[09:16:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[09:16:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[09:16:48] [Render thread/INFO]: Started serving on 61592
+[09:16:48] [Render thread/INFO]: [System] [CHAT] Local game hosted on port [61592]
+[09:16:49] [Download-1/ERROR]: Failed to retrieve profile key pair
+com.mojang.authlib.exceptions.MinecraftClientHttpException: Status: 401
+	at SECURE-BOOTSTRAP/authlib@7.0.619/com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:103)
+	at SECURE-BOOTSTRAP/authlib@7.0.619/com.mojang.authlib.minecraft.client.MinecraftClient.post(MinecraftClient.java:64)
+	at SECURE-BOOTSTRAP/authlib@7.0.619/com.mojang.authlib.yggdrasil.YggdrasilUserApiService.getKeyPair(YggdrasilUserApiService.java:66)
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.client.multiplayer.AccountProfileKeyPairManager.fetchProfileKeyPair(AccountProfileKeyPairManager.java:127)
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.client.multiplayer.AccountProfileKeyPairManager.lambda$readOrFetchProfileKeyPair$0(AccountProfileKeyPairManager.java:73)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+[09:16:49] [Download-3/ERROR]: Failed to retrieve profile key pair
+com.mojang.authlib.exceptions.MinecraftClientHttpException: Status: 401
+	at SECURE-BOOTSTRAP/authlib@7.0.619/com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:103)
+	at SECURE-BOOTSTRAP/authlib@7.0.619/com.mojang.authlib.minecraft.client.MinecraftClient.post(MinecraftClient.java:64)
+	at SECURE-BOOTSTRAP/authlib@7.0.619/com.mojang.authlib.yggdrasil.YggdrasilUserApiService.getKeyPair(YggdrasilUserApiService.java:66)
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.client.multiplayer.AccountProfileKeyPairManager.fetchProfileKeyPair(AccountProfileKeyPairManager.java:127)
+	at TRANSFORMER/minecraft@1.21.11/net.minecraft.client.multiplayer.AccountProfileKeyPairManager.lambda$readOrFetchProfileKeyPair$0(AccountProfileKeyPairManager.java:73)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+[09:17:17] [User Authenticator #1/WARN]: Failed to verify username but will let them in anyway!
+[09:17:19] [Server thread/INFO]: kayd12[/26.96.112.208:50384] logged in with entity id 844 at (102.2468787435755, 75.0, -1288.0721869768836)
+[09:17:19] [Server thread/INFO]: kayd12 joined the game
+[09:17:19] [Render thread/INFO]: [System] [CHAT] kayd12 joined the game
+[09:17:19] [Server thread/INFO]: Player connected to a local world, not setting up proxy config
+[09:17:26] [IO-Worker-9/INFO]: System default audio device has changed!
+[09:17:26] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Realtek(R) Audio)
+[09:17:26] [Render thread/INFO]: Sound engine started
+[09:20:07] [Server thread/INFO]: [Adm1n2610: Teleported Adm1n2610 to kayd12]
+[09:20:07] [Render thread/INFO]: [System] [CHAT] Teleported Adm1n2610 to kayd12
+[09:20:08] [pool-11-thread-1/INFO]: do head request -> https://auth.tlauncher.org/skin/v1/profile/texture/login/kayd12 RequestMetadata(lastModified=null, eTag=W/fa2bce81c084cbfa3c284a986b375c9d, sha1=6cbe412b8f0e3c76c9b51e2c35c46fc58c0a9317, lastAccessAt=1771961171985) local file C:\Users\PC\AppData\Roaming\.minecraft\versions\Server\cache\https_auth.tlauncher.org\skin\v1\profile\texture\login\kayd12
+[09:20:08] [pool-11-thread-1/INFO]: do head request -> https://auth.tlauncher.org/skin/fileservice/skins/skin_kayd12.png RequestMetadata(lastModified=null, eTag=35ec5927e56427962dc43ee71fc0e2d8, sha1=ca4c6ee541b69011093c0ac25436c6553233cd1c, lastAccessAt=1771961172244) local file C:\Users\PC\AppData\Roaming\.minecraft\versions\Server\cache\https_auth.tlauncher.org\skin\fileservice\skins\skin_kayd12.png
+[09:21:19] [Server thread/INFO]: [kayd12: Set own game mode to Creative Mode]
+[09:21:19] [Render thread/INFO]: [System] [CHAT] [kayd12: Set own game mode to Creative Mode]
+[09:26:26] [Server thread/INFO]: [kayd12: Set the time to 1000]
+[09:26:26] [Render thread/INFO]: [System] [CHAT] [kayd12: Set the time to 1000]
+[09:35:55] [Server thread/INFO]: [kayd12: Set the time to 1000]
+[09:35:55] [Render thread/INFO]: [System] [CHAT] [kayd12: Set the time to 1000]
+[09:44:15] [Server thread/INFO]: [kayd12: Set the time to 1000]
+[09:44:15] [Render thread/INFO]: [System] [CHAT] [kayd12: Set the time to 1000]
+[09:52:05] [Server thread/INFO]: [kayd12: Set the time to 1000]
+[09:52:05] [Render thread/INFO]: [System] [CHAT] [kayd12: Set the time to 1000]
+[10:02:23] [Server thread/INFO]: [kayd12: Set the time to 1000]
+[10:02:23] [Render thread/INFO]: [System] [CHAT] [kayd12: Set the time to 1000]
+[10:06:16] [Server thread/INFO]: Villager Villager['Nitwit'/822, l='ServerLevel[New World]', x=62.09, y=64.00, z=-1245.20] died, message: 'Nitwit was slain by Zombie'
+[10:06:16] [Render thread/INFO]: Villager Villager['Nitwit'/822, l='ClientLevel', x=61.60, y=64.51, z=-1245.38] died, message: 'Nitwit died'
+[10:08:57] [Server thread/INFO]: [kayd12: Set the time to 1000]
+[10:08:57] [Render thread/INFO]: [System] [CHAT] [kayd12: Set the time to 1000]
+[10:09:01] [Server thread/INFO]: [kayd12: Set the weather to clear]
+[10:09:02] [Render thread/INFO]: [System] [CHAT] [kayd12: Set the weather to clear]
+[10:10:26] [User Authenticator #2/WARN]: Failed to verify username but will let them in anyway!
+[10:10:27] [Server thread/INFO]: Emhudon[/26.231.10.48:57752] logged in with entity id 31732 at (-201.5, 88.0, -113.5)
+[10:10:27] [Server thread/INFO]: Emhudon joined the game
+[10:10:27] [Server thread/INFO]: Player connected to a local world, not setting up proxy config
+[10:10:27] [Render thread/INFO]: [System] [CHAT] Emhudon joined the game
+[10:10:46] [Server thread/INFO]: [Emhudon: Teleported Emhudon to kayd12]
+[10:10:46] [Render thread/INFO]: [System] [CHAT] [Emhudon: Teleported Emhudon to kayd12]
+[10:10:46] [pool-11-thread-1/INFO]: do get request https://auth.tlauncher.org/skin/v1/profile/texture/login/Emhudon, saved to C:\Users\PC\AppData\Roaming\.minecraft\versions\Server\cache\https_auth.tlauncher.org\skin\v1\profile\texture\login\Emhudon
+[10:11:39] [Server thread/INFO]: [kayd12: Gamerule random_tick_speed is now set to: 100]
+[10:11:39] [Render thread/INFO]: [System] [CHAT] [kayd12: Gamerule random_tick_speed is now set to: 100]
+[10:12:13] [Server thread/INFO]: Emhudon lost connection: Disconnected
+[10:12:13] [Server thread/INFO]: Emhudon left the game
+[10:12:13] [Render thread/INFO]: [System] [CHAT] Emhudon left the game
+[10:13:50] [Server thread/INFO]: [kayd12: Gamerule random_tick_speed is now set to: 10000]
+[10:13:50] [Render thread/INFO]: [System] [CHAT] [kayd12: Gamerule random_tick_speed is now set to: 10000]
+[10:13:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2126ms or 42 ticks behind
+[10:14:04] [Server thread/INFO]: [kayd12: Gamerule random_tick_speed is now set to: 1000]
+[10:14:04] [Render thread/INFO]: [System] [CHAT] [kayd12: Gamerule random_tick_speed is now set to: 1000]
+[10:14:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3956ms or 79 ticks behind
+[10:24:16] [Server thread/INFO]: [kayd12: Gamerule random_tick_speed is now set to: 10000]
+[10:24:16] [Render thread/INFO]: [System] [CHAT] [kayd12: Gamerule random_tick_speed is now set to: 10000]
+[10:24:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[10:24:29] [Server thread/INFO]: [kayd12: Set the time to 1000]
+[10:24:29] [Render thread/INFO]: [System] [CHAT] [kayd12: Set the time to 1000]
+[10:25:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 51691ms or 1033 ticks behind
+[10:25:27] [Server thread/INFO]: [kayd12: Gamerule random_tick_speed is now set to: 10]
+[10:25:27] [Render thread/INFO]: [System] [CHAT] [kayd12: Gamerule random_tick_speed is now set to: 10]
+[10:25:59] [Server thread/INFO]: [kayd12: Set own game mode to Spectator Mode]
+[10:25:59] [Render thread/INFO]: [System] [CHAT] [kayd12: Set own game mode to Spectator Mode]
+[10:26:56] [Server thread/INFO]: [kayd12: Set own game mode to Survival Mode]
+[10:26:56] [Render thread/INFO]: [System] [CHAT] [kayd12: Set own game mode to Survival Mode]
+[10:27:28] [Render thread/INFO]: Loaded 13 advancements
+[10:28:30] [Render thread/INFO]: Loaded 23 advancements
+[10:28:36] [Render thread/INFO]: Loaded 25 advancements
+[10:36:05] [Render thread/INFO]: Loaded 39 advancements
+[10:36:11] [Server thread/INFO]: [Adm1n2610: Set the time to 1000]
+[10:36:11] [Render thread/INFO]: [System] [CHAT] Set the time to 1000
+[10:40:16] [Render thread/INFO]: Loaded 40 advancements
+[10:41:07] [Render thread/INFO]: Loaded 43 advancements
+[10:45:40] [Server thread/INFO]: [Adm1n2610: Set the time to 1000]
+[10:45:40] [Render thread/INFO]: [System] [CHAT] Set the time to 1000
+[10:47:20] [Server thread/INFO]: [kayd12: Set own game mode to Spectator Mode]
+[10:47:20] [Render thread/INFO]: [System] [CHAT] [kayd12: Set own game mode to Spectator Mode]
+[10:49:30] [Server thread/INFO]: kayd12 lost connection: Disconnected
+[10:49:30] [Server thread/INFO]: kayd12 left the game
+[10:49:30] [Render thread/INFO]: [System] [CHAT] kayd12 left the game
+[10:50:31] [User Authenticator #3/WARN]: Failed to verify username but will let them in anyway!
+[10:50:32] [Server thread/INFO]: kayd12[/26.96.112.208:53009] logged in with entity id 97291 at (126.31359291198396, 83.75566837045729, -1305.4803168514657)
+[10:50:32] [Server thread/INFO]: kayd12 joined the game
+[10:50:32] [Server thread/INFO]: Player connected to a local world, not setting up proxy config
+[10:50:32] [Render thread/INFO]: [System] [CHAT] kayd12 joined the game
+[10:53:14] [Server thread/INFO]: [kayd12: Teleported kayd12 to Adm1n2610]
+[10:53:14] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to Adm1n2610]
+[10:55:05] [Server thread/INFO]: [kayd12: Set the time to 1000]
+[10:55:05] [Render thread/INFO]: [System] [CHAT] [kayd12: Set the time to 1000]
+[11:02:10] [Server thread/INFO]: [kayd12: Set own game mode to Creative Mode]
+[11:02:10] [Render thread/INFO]: [System] [CHAT] [kayd12: Set own game mode to Creative Mode]
+[11:04:08] [Server thread/INFO]: [kayd12: Set the time to 1000]
+[11:04:08] [Render thread/INFO]: [System] [CHAT] [kayd12: Set the time to 1000]
+[11:07:20] [Server thread/INFO]: Villager Villager['Villager'/107217, l='ServerLevel[New World]', x=91.99, y=65.56, z=-1350.70] died, message: 'Villager was slain by kayd12'
+[11:07:21] [Render thread/INFO]: Villager Villager['Villager'/107217, l='ClientLevel', x=91.97, y=65.58, z=-1350.58] died, message: 'Villager died'
+[11:07:27] [Server thread/INFO]: Villager Villager['Villager'/107192, l='ServerLevel[New World]', x=91.97, y=65.56, z=-1350.49] died, message: 'Villager was slain by kayd12'
+[11:07:27] [Server thread/INFO]: Villager Villager['Villager'/107204, l='ServerLevel[New World]', x=91.30, y=65.56, z=-1350.58] died, message: 'Villager was slain by kayd12'
+[11:07:27] [Render thread/INFO]: Villager Villager['Villager'/107192, l='ClientLevel', x=92.24, y=65.60, z=-1350.55] died, message: 'Villager died'
+[11:07:27] [Render thread/INFO]: Villager Villager['Villager'/107204, l='ClientLevel', x=91.38, y=65.60, z=-1350.59] died, message: 'Villager died'
+[11:08:05] [Server thread/INFO]: Villager Villager['Villager'/108003, l='ServerLevel[New World]', x=95.59, y=70.00, z=-1364.37] died, message: 'Villager was slain by kayd12'
+[11:08:05] [Render thread/INFO]: Villager Villager['Villager'/108003, l='ClientLevel', x=95.86, y=70.56, z=-1363.77] died, message: 'Villager died'
+[11:08:22] [Server thread/INFO]: Villager Villager['Villager'/107965, l='ServerLevel[New World]', x=91.57, y=65.56, z=-1349.85] died, message: 'Villager was slain by kayd12'
+[11:08:22] [Render thread/INFO]: Villager Villager['Villager'/107965, l='ClientLevel', x=91.61, y=65.56, z=-1348.99] died, message: 'Villager died'
+[11:08:26] [Server thread/INFO]: Villager Villager['Villager'/107721, l='ServerLevel[New World]', x=91.86, y=65.56, z=-1350.50] died, message: 'Villager was slain by kayd12'
+[11:08:26] [Render thread/INFO]: Villager Villager['Villager'/107721, l='ClientLevel', x=92.42, y=65.56, z=-1350.57] died, message: 'Villager died'
+[11:11:39] [Server thread/INFO]: Villager Villager['Villager'/841, l='ServerLevel[New World]', x=76.70, y=63.16, z=-1279.29] died, message: 'Villager was slain by kayd12'
+[11:11:40] [Render thread/INFO]: Villager Villager['Villager'/841, l='ClientLevel', x=76.68, y=62.72, z=-1279.44] died, message: 'Villager died'
+[11:11:42] [Server thread/INFO]: Villager Villager['Villager'/840, l='ServerLevel[New World]', x=76.41, y=62.83, z=-1279.55] died, message: 'Villager was slain by kayd12'
+[11:11:42] [Render thread/INFO]: Villager Villager['Villager'/840, l='ClientLevel', x=76.48, y=62.63, z=-1279.56] died, message: 'Villager died'
+[11:11:43] [Server thread/INFO]: Villager Villager['Villager'/839, l='ServerLevel[New World]', x=77.64, y=61.96, z=-1277.64] died, message: 'Villager was slain by kayd12'
+[11:11:43] [Render thread/INFO]: Villager Villager['Villager'/839, l='ClientLevel', x=77.67, y=62.19, z=-1277.67] died, message: 'Villager died'
+[11:12:05] [Server thread/INFO]: Villager Villager['Villager'/108591, l='ServerLevel[New World]', x=89.70, y=64.25, z=-1349.30] died, message: 'Villager was slain by kayd12'
+[11:12:05] [Render thread/INFO]: Villager Villager['Villager'/108591, l='ClientLevel', x=89.70, y=64.87, z=-1349.30] died, message: 'Villager died'
+[11:12:28] [Server thread/INFO]: Villager Villager['Villager'/110723, l='ServerLevel[New World]', x=90.50, y=65.00, z=-1349.30] died, message: 'Villager was slain by Zombie'
+[11:12:28] [Render thread/INFO]: Villager Villager['Villager'/110723, l='ClientLevel', x=90.49, y=65.00, z=-1349.30] died, message: 'Villager died'
+[11:12:35] [Server thread/INFO]: Villager Villager['Villager'/108530, l='ServerLevel[New World]', x=90.70, y=65.00, z=-1348.30] died, message: 'Villager was slain by Zombie'
+[11:12:35] [Render thread/INFO]: Villager Villager['Villager'/108530, l='ClientLevel', x=90.70, y=65.00, z=-1348.30] died, message: 'Villager died'
+[11:12:56] [Server thread/INFO]: Villager Villager['Librarian'/110958, l='ServerLevel[New World]', x=85.46, y=69.00, z=-1353.32] died, message: 'Librarian was slain by kayd12'
+[11:12:56] [Render thread/INFO]: Villager Villager['Librarian'/110958, l='ClientLevel', x=86.10, y=69.23, z=-1354.08] died, message: 'Librarian died'
+[11:13:08] [Server thread/INFO]: Villager Villager['Villager'/111026, l='ServerLevel[New World]', x=103.79, y=67.00, z=-1347.79] died, message: 'Villager was slain by kayd12'
+[11:13:08] [Render thread/INFO]: Villager Villager['Villager'/111026, l='ClientLevel', x=103.13, y=67.00, z=-1347.13] died, message: 'Villager died'
+[11:13:14] [Server thread/INFO]: Villager Villager['Villager'/111014, l='ServerLevel[New World]', x=91.86, y=70.00, z=-1364.22] died, message: 'Villager was slain by kayd12'
+[11:13:14] [Render thread/INFO]: Villager Villager['Villager'/111014, l='ClientLevel', x=92.09, y=70.00, z=-1364.74] died, message: 'Villager died'
+[11:13:20] [Server thread/INFO]: Villager Villager['Villager'/111020, l='ServerLevel[New World]', x=101.93, y=71.00, z=-1384.06] died, message: 'Villager was slain by kayd12'
+[11:13:20] [Render thread/INFO]: Villager Villager['Villager'/111020, l='ClientLevel', x=102.18, y=71.00, z=-1383.31] died, message: 'Villager died'
+[11:26:03] [Server thread/INFO]: Villager Villager['Farmer'/821, l='ServerLevel[New World]', x=65.30, y=65.18, z=-1315.05] died, message: 'Farmer was slain by kayd12'
+[11:26:03] [Render thread/INFO]: Villager Villager['Farmer'/821, l='ClientLevel', x=65.30, y=65.00, z=-1315.11] died, message: 'Farmer died'
+[11:26:17] [Server thread/INFO]: Villager Villager['Farmer'/819, l='ServerLevel[New World]', x=30.49, y=62.94, z=-1287.67] died, message: 'Farmer was slain by kayd12'
+[11:26:17] [Render thread/INFO]: Villager Villager['Farmer'/819, l='ClientLevel', x=30.32, y=62.99, z=-1286.73] died, message: 'Farmer died'
+[11:33:47] [Server thread/INFO]: Villager Villager['Cleric'/835, l='ServerLevel[New World]', x=73.59, y=67.00, z=-1330.56] died, message: 'Cleric was slain by kayd12'
+[11:33:47] [Render thread/INFO]: Villager Villager['Cleric'/835, l='ClientLevel', x=73.33, y=67.00, z=-1330.13] died, message: 'Cleric died'
+[11:41:28] [Server thread/INFO]: [kayd12: Set the time to 1000]
+[11:41:28] [Render thread/INFO]: [System] [CHAT] [kayd12: Set the time to 1000]
+[11:41:57] [Server thread/INFO]: [kayd12: Set own game mode to Survival Mode]
+[11:41:57] [Render thread/INFO]: [System] [CHAT] [kayd12: Set own game mode to Survival Mode]
+[11:43:17] [Server thread/INFO]: [Adm1n2610: Teleported Adm1n2610 to kayd12]
+[11:43:17] [Render thread/INFO]: [System] [CHAT] Teleported Adm1n2610 to kayd12
+[11:44:44] [Server thread/INFO]: [kayd12: Gamerule random_tick_speed is now set to: 10000]
+[11:44:44] [Render thread/INFO]: [System] [CHAT] [kayd12: Gamerule random_tick_speed is now set to: 10000]
+[11:44:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2154ms or 43 ticks behind
+[11:44:59] [Server thread/INFO]: [kayd12: Gamerule random_tick_speed is now set to: 10]
+[11:44:59] [Render thread/INFO]: [System] [CHAT] [kayd12: Gamerule random_tick_speed is now set to: 10]
+[11:47:30] [Server thread/INFO]: [kayd12: Set own game mode to Creative Mode]
+[11:47:30] [Render thread/INFO]: [System] [CHAT] [kayd12: Set own game mode to Creative Mode]
+[11:50:39] [Server thread/INFO]: [kayd12: Set the time to 1000]
+[11:50:39] [Render thread/INFO]: [System] [CHAT] [kayd12: Set the time to 1000]
+[11:58:56] [Server thread/INFO]: [kayd12: Set own game mode to Survival Mode]
+[11:58:56] [Render thread/INFO]: [System] [CHAT] [kayd12: Set own game mode to Survival Mode]
+[11:59:44] [Server thread/INFO]: [kayd12: Set the time to 1000]
+[11:59:44] [Render thread/INFO]: [System] [CHAT] [kayd12: Set the time to 1000]
+[12:10:53] [Server thread/INFO]: Villager Villager['Villager'/108319, l='ServerLevel[New World]', x=92.70, y=65.56, z=-1349.11] died, message: 'Villager was slain by Zombie Villager'
+[12:10:53] [Render thread/INFO]: Villager Villager['Villager'/108319, l='ClientLevel', x=92.70, y=65.56, z=-1349.74] died, message: 'Villager died'
+[12:11:04] [Server thread/INFO]: Villager Villager['Villager'/110979, l='ServerLevel[New World]', x=92.46, y=65.56, z=-1349.30] died, message: 'Villager was slain by Zombie Villager'
+[12:11:12] [Server thread/INFO]: Villager Villager['Villager'/110969, l='ServerLevel[New World]', x=91.42, y=65.56, z=-1348.34] died, message: 'Villager was slain by Zombie Villager'
+[12:17:30] [User Authenticator #4/WARN]: Failed to verify username but will let them in anyway!
+[12:17:33] [Server thread/INFO]: haducanh[/26.90.224.177:54345] logged in with entity id 151445 at (-173.91441504699546, 65.0, -105.49277646959779)
+[12:17:33] [Server thread/INFO]: haducanh joined the game
+[12:17:33] [Server thread/INFO]: Player connected to a local world, not setting up proxy config
+[12:17:33] [Render thread/INFO]: [System] [CHAT] haducanh joined the game
+[12:17:52] [Server thread/INFO]: [haducanh: Teleported haducanh to kayd12]
+[12:17:52] [Render thread/INFO]: [System] [CHAT] [haducanh: Teleported haducanh to kayd12]
+[12:18:12] [pool-11-thread-1/INFO]: do head request -> https://auth.tlauncher.org/skin/v1/profile/texture/login/haducanh RequestMetadata(lastModified=null, eTag=W/8db688d4eb09d4fe3969f6e78b88295c, sha1=89565e0027afbc2922fa6cc6c91ede1818821368, lastAccessAt=1771942724389) local file C:\Users\PC\AppData\Roaming\.minecraft\versions\Server\cache\https_auth.tlauncher.org\skin\v1\profile\texture\login\haducanh
+[12:18:12] [pool-11-thread-1/INFO]: do head request -> https://auth.tlauncher.org/skin/fileservice/skins/skin_haducanh.png RequestMetadata(lastModified=null, eTag=fd5d1e367087d7ea27c0c38315a466a6, sha1=636453e2ec130f16b759036b8c2b4eb037838750, lastAccessAt=1771942724648) local file C:\Users\PC\AppData\Roaming\.minecraft\versions\Server\cache\https_auth.tlauncher.org\skin\fileservice\skins\skin_haducanh.png
+[12:22:00] [Server thread/INFO]: haducanh has made the advancement [Sweet Dreams]
+[12:22:00] [Render thread/INFO]: [System] [CHAT] haducanh has made the advancement [Sweet Dreams]
+[12:23:17] [Server thread/INFO]: [kayd12: Set the weather to clear]
+[12:23:17] [Render thread/INFO]: [System] [CHAT] [kayd12: Set the weather to clear]
+[12:23:26] [Server thread/INFO]: [kayd12: Set the time to 1000]
+[12:23:26] [Render thread/INFO]: [System] [CHAT] [kayd12: Set the time to 1000]
+[12:24:33] [pool-11-thread-1/INFO]: do head request -> https://auth.tlauncher.org/skin/v1/profile/texture/login/kayd12 RequestMetadata(lastModified=null, eTag=W/fa2bce81c084cbfa3c284a986b375c9d, sha1=6cbe412b8f0e3c76c9b51e2c35c46fc58c0a9317, lastAccessAt=1771986008228) local file C:\Users\PC\AppData\Roaming\.minecraft\versions\Server\cache\https_auth.tlauncher.org\skin\v1\profile\texture\login\kayd12
+[12:24:34] [pool-11-thread-1/INFO]: do head request -> https://auth.tlauncher.org/skin/fileservice/skins/skin_kayd12.png RequestMetadata(lastModified=null, eTag=35ec5927e56427962dc43ee71fc0e2d8, sha1=ca4c6ee541b69011093c0ac25436c6553233cd1c, lastAccessAt=1771986008484) local file C:\Users\PC\AppData\Roaming\.minecraft\versions\Server\cache\https_auth.tlauncher.org\skin\fileservice\skins\skin_kayd12.png
+[12:27:02] [Server thread/INFO]: [kayd12: Teleported kayd12 to haducanh]
+[12:27:02] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to haducanh]
+[12:29:19] [pool-11-thread-1/INFO]: do head request -> https://auth.tlauncher.org/skin/v1/profile/texture/login/haducanh RequestMetadata(lastModified=null, eTag=W/8db688d4eb09d4fe3969f6e78b88295c, sha1=89565e0027afbc2922fa6cc6c91ede1818821368, lastAccessAt=1771996692874) local file C:\Users\PC\AppData\Roaming\.minecraft\versions\Server\cache\https_auth.tlauncher.org\skin\v1\profile\texture\login\haducanh
+[12:29:20] [pool-11-thread-1/INFO]: do head request -> https://auth.tlauncher.org/skin/fileservice/skins/skin_haducanh.png RequestMetadata(lastModified=null, eTag=fd5d1e367087d7ea27c0c38315a466a6, sha1=636453e2ec130f16b759036b8c2b4eb037838750, lastAccessAt=1771996692921) local file C:\Users\PC\AppData\Roaming\.minecraft\versions\Server\cache\https_auth.tlauncher.org\skin\fileservice\skins\skin_haducanh.png
+[12:29:35] [Render thread/INFO]: Loaded 53 advancements
+[12:31:48] [Server thread/INFO]: [kayd12: Gamerule random_tick_speed is now set to: 10]
+[12:31:48] [Render thread/INFO]: [System] [CHAT] [kayd12: Gamerule random_tick_speed is now set to: 10]
+[12:33:06] [Server thread/INFO]: [kayd12: Gamerule random_tick_speed is now set to: 3]
+[12:33:06] [Render thread/INFO]: [System] [CHAT] [kayd12: Gamerule random_tick_speed is now set to: 3]
+[12:33:11] [Server thread/INFO]: [kayd12: Set the time to 1000]
+[12:33:11] [Render thread/INFO]: [System] [CHAT] [kayd12: Set the time to 1000]
+[12:34:20] [Server thread/INFO]: Villager Villager['Villager'/159411, l='ServerLevel[New World]', x=92.53, y=65.56, z=-1348.60] died, message: 'Villager was slain by Adm1n2610'
+[12:34:20] [Render thread/INFO]: Villager Villager['Villager'/159411, l='ClientLevel', x=92.61, y=65.56, z=-1348.38] died, message: 'Villager died'
+[12:34:20] [Render thread/INFO]: Loaded 92 advancements
+[12:34:23] [Server thread/INFO]: Villager Villager['Villager'/159431, l='ServerLevel[New World]', x=92.42, y=65.56, z=-1348.62] died, message: 'Villager was slain by Adm1n2610'
+[12:34:23] [Render thread/INFO]: Villager Villager['Villager'/159431, l='ClientLevel', x=92.52, y=65.56, z=-1348.70] died, message: 'Villager died'
+[12:34:26] [Server thread/INFO]: Villager Villager['Villager'/159422, l='ServerLevel[New World]', x=92.56, y=65.56, z=-1350.13] died, message: 'Villager was slain by Adm1n2610'
+[12:34:26] [Render thread/INFO]: Villager Villager['Villager'/159422, l='ClientLevel', x=92.37, y=65.56, z=-1349.42] died, message: 'Villager died'
+[12:34:30] [Server thread/INFO]: Villager Villager['Villager'/161310, l='ServerLevel[New World]', x=92.70, y=65.56, z=-1348.50] died, message: 'Villager was slain by Adm1n2610'
+[12:34:30] [Render thread/INFO]: Villager Villager['Villager'/161310, l='ClientLevel', x=92.67, y=65.56, z=-1348.50] died, message: 'Villager died'
+[12:35:42] [Server thread/INFO]: Villager Villager['Villager'/163125, l='ServerLevel[New World]', x=90.49, y=65.00, z=-1348.70] died, message: 'Villager was slain by Zombie'
+[12:35:50] [Server thread/INFO]: Adm1n2610 has made the advancement [Monster Hunter]
+[12:35:50] [Render thread/INFO]: [System] [CHAT] Adm1n2610 has made the advancement [Monster Hunter]
+[12:35:50] [Render thread/INFO]: Loaded 95 advancements
+[12:36:14] [Server thread/INFO]: Villager Villager['Villager'/163393, l='ServerLevel[New World]', x=92.44, y=65.56, z=-1348.95] died, message: 'Villager was slain by Adm1n2610'
+[12:36:14] [Render thread/INFO]: Villager Villager['Villager'/163393, l='ClientLevel', x=92.39, y=65.56, z=-1348.56] died, message: 'Villager died'
+[12:36:17] [Server thread/INFO]: Villager Villager['Villager'/163459, l='ServerLevel[New World]', x=92.67, y=65.56, z=-1348.70] died, message: 'Villager was slain by Adm1n2610'
+[12:36:17] [Render thread/INFO]: Villager Villager['Villager'/163459, l='ClientLevel', x=92.61, y=65.56, z=-1348.32] died, message: 'Villager died'
+[12:36:42] [Server thread/INFO]: Villager Villager['Villager'/163600, l='ServerLevel[New World]', x=92.31, y=65.56, z=-1348.30] died, message: 'Villager was slain by Adm1n2610'
+[12:36:42] [Render thread/INFO]: Villager Villager['Villager'/163600, l='ClientLevel', x=92.36, y=65.56, z=-1348.59] died, message: 'Villager died'
+[12:36:43] [Server thread/INFO]: Villager Villager['Villager'/163606, l='ServerLevel[New World]', x=92.70, y=65.56, z=-1348.30] died, message: 'Villager was slain by Adm1n2610'
+[12:36:43] [Render thread/INFO]: Villager Villager['Villager'/163606, l='ClientLevel', x=92.70, y=65.56, z=-1348.31] died, message: 'Villager died'
+[12:37:07] [Server thread/INFO]: Villager Villager['Villager'/163613, l='ServerLevel[New World]', x=91.03, y=65.56, z=-1349.25] died, message: 'Villager was slain by Adm1n2610'
+[12:37:07] [Render thread/INFO]: Villager Villager['Villager'/163613, l='ClientLevel', x=91.81, y=65.56, z=-1348.84] died, message: 'Villager died'
+[12:37:13] [Server thread/INFO]: Villager Villager['Villager'/163713, l='ServerLevel[New World]', x=90.64, y=65.19, z=-1350.45] died, message: 'Villager was slain by Adm1n2610'
+[12:37:13] [Render thread/INFO]: Villager Villager['Villager'/163713, l='ClientLevel', x=90.91, y=65.53, z=-1350.44] died, message: 'Villager died'
+[12:38:41] [Server thread/INFO]: haducanh burned to death
+[12:38:41] [Render thread/INFO]: [System] [CHAT] haducanh burned to death
+[12:39:48] [Server thread/INFO]: kayd12 was killed
+[12:39:48] [Server thread/INFO]: [kayd12: Killed kayd12]
+[12:39:48] [Render thread/INFO]: [System] [CHAT] kayd12 was killed
+[12:39:48] [Render thread/INFO]: [System] [CHAT] [kayd12: Killed kayd12]
+[12:40:20] [Server thread/INFO]: [Not Secure] <kayd12> dung danh no
+[12:40:20] [Render thread/INFO]: [Not Secure] [CHAT] <kayd12> dung danh no
+[12:40:22] [Server thread/INFO]: [Not Secure] <kayd12> anh dang fix
+[12:40:22] [Render thread/INFO]: [Not Secure] [CHAT] <kayd12> anh dang fix
+[12:40:58] [Server thread/INFO]: [kayd12: Teleported kayd12 to Adm1n2610]
+[12:40:58] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to Adm1n2610]
+[12:41:36] [Server thread/INFO]: haducanh lost connection: Disconnected
+[12:41:36] [Server thread/INFO]: haducanh left the game
+[12:41:36] [Render thread/INFO]: [System] [CHAT] haducanh left the game
+[12:42:58] [Server thread/INFO]: [Adm1n2610: Set the time to 1000]
+[12:42:58] [Render thread/INFO]: [System] [CHAT] Set the time to 1000
+[12:43:16] [Server thread/INFO]: [Adm1n2610: Set own game mode to Spectator Mode]
+[12:43:16] [Render thread/INFO]: [System] [CHAT] Set own game mode to Spectator Mode
+[12:43:23] [Render thread/INFO]: Resizing Chunk Sections UBO, capacity limit of 1024 reached during a single frame. New capacity will be 2048.
+[12:43:28] [Render thread/INFO]: Resizing Chunk Sections UBO, capacity limit of 2048 reached during a single frame. New capacity will be 4096.
+[12:43:44] [Server thread/INFO]: [Adm1n2610: Set own game mode to Creative Mode]
+[12:43:44] [Render thread/INFO]: [System] [CHAT] Set own game mode to Creative Mode
+[12:43:54] [Server thread/INFO]: [Adm1n2610: Set own game mode to Spectator Mode]
+[12:43:54] [Render thread/INFO]: [System] [CHAT] Set own game mode to Spectator Mode
+[12:44:00] [Server thread/INFO]: [Adm1n2610: Set own game mode to Creative Mode]
+[12:44:00] [Render thread/INFO]: [System] [CHAT] Set own game mode to Creative Mode
+[12:44:45] [Render thread/INFO]: Loaded 96 advancements
+[12:47:37] [Render thread/INFO]: Loaded 96 advancements
+[12:47:42] [Server thread/INFO]: Villager Villager['Villager'/164383, l='ServerLevel[New World]', x=92.51, y=65.63, z=-1350.63] died, message: 'Villager was slain by Adm1n2610'
+[12:47:42] [Server thread/INFO]: Villager Villager['Villager'/164409, l='ServerLevel[New World]', x=92.08, y=65.69, z=-1349.10] died, message: 'Villager was slain by Adm1n2610'
+[12:47:42] [Render thread/INFO]: Villager Villager['Villager'/164383, l='ClientLevel', x=92.51, y=65.83, z=-1350.69] died, message: 'Villager died'
+[12:47:42] [Render thread/INFO]: Villager Villager['Villager'/164409, l='ClientLevel', x=92.23, y=65.77, z=-1348.99] died, message: 'Villager died'
+[12:47:42] [Server thread/INFO]: Villager Villager['Villager'/164398, l='ServerLevel[New World]', x=92.51, y=65.56, z=-1349.93] died, message: 'Villager was slain by Adm1n2610'
+[12:47:42] [Render thread/INFO]: Villager Villager['Villager'/164398, l='ClientLevel', x=92.48, y=65.56, z=-1350.09] died, message: 'Villager died'
+[12:48:33] [Server thread/INFO]: Villager Villager['Villager'/171030, l='ServerLevel[New World]', x=92.08, y=65.56, z=-1350.56] died, message: 'Villager was slain by Adm1n2610'
+[12:48:33] [Render thread/INFO]: Villager Villager['Villager'/171030, l='ClientLevel', x=91.91, y=65.56, z=-1350.39] died, message: 'Villager died'
+[12:49:27] [Server thread/INFO]: Villager Villager['Villager'/171727, l='ServerLevel[New World]', x=91.09, y=65.56, z=-1350.16] died, message: 'Villager was slain by Adm1n2610'
+[12:49:27] [Render thread/INFO]: Villager Villager['Villager'/171727, l='ClientLevel', x=90.88, y=65.31, z=-1350.11] died, message: 'Villager died'
+[12:49:31] [Server thread/INFO]: Villager Villager['Villager'/171699, l='ServerLevel[New World]', x=91.49, y=65.77, z=-1349.19] died, message: 'Villager was slain by Adm1n2610'
+[12:49:31] [Render thread/INFO]: Villager Villager['Villager'/171699, l='ClientLevel', x=91.49, y=65.84, z=-1348.84] died, message: 'Villager died'
+[12:49:34] [Server thread/INFO]: Villager Villager['Villager'/171297, l='ServerLevel[New World]', x=91.49, y=65.56, z=-1348.37] died, message: 'Villager was slain by Adm1n2610'
+[12:49:34] [Render thread/INFO]: Villager Villager['Villager'/171297, l='ClientLevel', x=91.49, y=65.80, z=-1348.32] died, message: 'Villager died'
+[12:49:36] [Server thread/INFO]: Villager Villager['Librarian'/171453, l='ServerLevel[New World]', x=91.49, y=65.56, z=-1349.21] died, message: 'Librarian was slain by Adm1n2610'
+[12:49:36] [Render thread/INFO]: Villager Villager['Librarian'/171453, l='ClientLevel', x=91.49, y=65.89, z=-1348.91] died, message: 'Librarian died'
+[12:52:49] [Server thread/INFO]: [Adm1n2610: Set the time to 1000]
+[12:52:49] [Render thread/INFO]: [System] [CHAT] Set the time to 1000
+[12:55:40] [Server thread/INFO]: [kayd12: Teleported kayd12 to Adm1n2610]
+[12:55:40] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to Adm1n2610]
+[12:56:43] [Server thread/INFO]: [kayd12: Teleported kayd12 to Adm1n2610]
+[12:56:43] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to Adm1n2610]
+[12:57:14] [Server thread/INFO]: [kayd12: Teleported kayd12 to Adm1n2610]
+[12:57:14] [Render thread/INFO]: [System] [CHAT] [kayd12: Teleported kayd12 to Adm1n2610]
+[12:59:26] [Server thread/INFO]: [Adm1n2610: Teleported Adm1n2610 to kayd12]
+[12:59:26] [Render thread/INFO]: [System] [CHAT] Teleported Adm1n2610 to kayd12
+[12:59:36] [Server thread/INFO]: Villager Villager['Villager'/171892, l='ServerLevel[New World]', x=91.67, y=65.56, z=-1349.81] died, message: 'Villager was slain by Adm1n2610'
+[12:59:36] [Render thread/INFO]: Villager Villager['Villager'/171892, l='ClientLevel', x=91.90, y=65.56, z=-1349.73] died, message: 'Villager died'
+[12:59:39] [Server thread/INFO]: Villager Villager['Villager'/171983, l='ServerLevel[New World]', x=92.12, y=65.56, z=-1350.35] died, message: 'Villager was slain by Adm1n2610'
+[12:59:39] [Render thread/INFO]: Villager Villager['Villager'/171983, l='ClientLevel', x=92.23, y=65.57, z=-1350.42] died, message: 'Villager died'
+[12:59:40] [Server thread/INFO]: Villager Villager['Villager'/172416, l='ServerLevel[New World]', x=92.37, y=65.56, z=-1350.42] died, message: 'Villager was slain by Adm1n2610'
+[12:59:40] [Render thread/INFO]: Villager Villager['Villager'/172416, l='ClientLevel', x=92.51, y=65.59, z=-1350.49] died, message: 'Villager died'
+[12:59:51] [Server thread/INFO]: Adm1n2610 has made the advancement [Hot Stuff]
+[12:59:51] [Render thread/INFO]: [System] [CHAT] Adm1n2610 has made the advancement [Hot Stuff]
+[12:59:51] [Render thread/INFO]: Loaded 103 advancements
+[13:01:32] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
+[13:01:57] [Server thread/INFO]: [Adm1n2610: Set the time to 1000]
+[13:01:57] [Render thread/INFO]: [System] [CHAT] Set the time to 1000
+[13:02:34] [Render thread/INFO]: Loaded 105 advancements
+[13:03:23] [Server thread/INFO]: [Adm1n2610: Set the time to 13000]
+[13:03:23] [Render thread/INFO]: [System] [CHAT] Set the time to 13000
+[13:03:57] [Server thread/INFO]: [Adm1n2610: Set the time to 1000]
+[13:03:57] [Render thread/INFO]: [System] [CHAT] Set the time to 1000
+[13:04:11] [Render thread/INFO]: Loaded 105 advancements
+[13:05:21] [Render thread/INFO]: Loaded 107 advancements
+[13:10:41] [Server thread/INFO]: Adm1n2610 has made the advancement [Acquire Hardware]
+[13:10:41] [Render thread/INFO]: [System] [CHAT] Adm1n2610 has made the advancement [Acquire Hardware]
+[13:10:41] [Render thread/INFO]: Loaded 137 advancements
+[13:11:49] [Server thread/INFO]: Villager Villager['Villager'/175528, l='ServerLevel[New World]', x=72.46, y=67.00, z=-1276.80] died, message: 'Villager was slain by Adm1n2610'
+[13:11:49] [Render thread/INFO]: Villager Villager['Villager'/175528, l='ClientLevel', x=72.09, y=67.02, z=-1276.87] died, message: 'Villager died'
+[13:12:04] [Server thread/INFO]: Villager Villager['Mason'/174627, l='ServerLevel[New World]', x=46.93, y=64.00, z=-1300.82] died, message: 'Mason was slain by Adm1n2610'
+[13:12:04] [Render thread/INFO]: Villager Villager['Mason'/174627, l='ClientLevel', x=47.18, y=64.46, z=-1300.50] died, message: 'Mason died'
+[13:12:13] [Server thread/INFO]: Villager Villager['Cleric'/174752, l='ServerLevel[New World]', x=69.08, y=66.00, z=-1321.50] died, message: 'Cleric was slain by Adm1n2610'
+[13:12:13] [Render thread/INFO]: Villager Villager['Cleric'/174752, l='ClientLevel', x=68.15, y=66.00, z=-1321.50] died, message: 'Cleric died'
+[13:12:16] [Server thread/INFO]: Villager Villager['Villager'/175522, l='ServerLevel[New World]', x=68.17, y=65.00, z=-1311.07] died, message: 'Villager was slain by Adm1n2610'
+[13:12:16] [Render thread/INFO]: Villager Villager['Villager'/175522, l='ClientLevel', x=68.50, y=65.00, z=-1311.23] died, message: 'Villager died'
+[13:12:18] [Server thread/INFO]: Villager Villager['Villager'/175540, l='ServerLevel[New World]', x=68.45, y=65.00, z=-1310.50] died, message: 'Villager was slain by Adm1n2610'
+[13:12:18] [Render thread/INFO]: Villager Villager['Villager'/175540, l='ClientLevel', x=68.59, y=65.00, z=-1310.21] died, message: 'Villager died'
+[13:12:26] [Server thread/INFO]: Villager Villager['Farmer'/174535, l='ServerLevel[New World]', x=41.45, y=63.00, z=-1287.70] died, message: 'Farmer was slain by Adm1n2610'
+[13:12:26] [Render thread/INFO]: Villager Villager['Farmer'/174535, l='ClientLevel', x=42.31, y=63.00, z=-1287.50] died, message: 'Farmer died'
+[13:13:33] [Server thread/INFO]: [Adm1n2610: Teleported Adm1n2610 to kayd12]
+[13:13:33] [Render thread/INFO]: [System] [CHAT] Teleported Adm1n2610 to kayd12
+[13:14:14] [Server thread/INFO]: [Adm1n2610: Gamerule random_tick_speed is now set to: 100]
+[13:14:14] [Render thread/INFO]: [System] [CHAT] Gamerule random_tick_speed is now set to: 100
+[13:26:45] [Server thread/INFO]: kayd12 lost connection: Disconnected
+[13:26:46] [Server thread/INFO]: kayd12 left the game
+[13:26:46] [Render thread/INFO]: [System] [CHAT] kayd12 left the game
+[13:42:01] [Render thread/INFO]: Loaded 139 advancements
+[13:43:10] [Render thread/INFO]: Loaded 157 advancements
+[13:49:30] [Server thread/INFO]: [Adm1n2610: Set the weather to clear]
+[13:49:30] [Render thread/INFO]: [System] [CHAT] Set the weather to clear
+[14:00:31] [Render thread/INFO]: Loaded 159 advancements
+[14:00:55] [Render thread/INFO]: Loaded 162 advancements
+[14:09:59] [Render thread/INFO]: Loaded 173 advancements
+[14:15:48] [Server thread/INFO]: [Adm1n2610: Set the time to 1000]
+[14:15:48] [Render thread/INFO]: [System] [CHAT] Set the time to 1000
+[14:17:25] [Render thread/INFO]: Loaded 191 advancements
+[14:21:39] [Render thread/INFO]: Loaded 192 advancements
+[14:23:30] [Render thread/INFO]: Loaded 193 advancements
+[14:25:13] [Server thread/INFO]: [Adm1n2610: Set the time to 18000]
+[14:25:13] [Render thread/INFO]: [System] [CHAT] Set the time to 18000
+[14:29:36] [Render thread/INFO]: Loaded 202 advancements
+[14:31:04] [Server thread/INFO]: Adm1n2610 has made the advancement [Stone Age]
+[14:31:04] [Render thread/INFO]: [System] [CHAT] Adm1n2610 has made the advancement [Stone Age]
+[14:31:04] [Render thread/INFO]: Loaded 217 advancements
+[14:32:43] [Render thread/INFO]: Loaded 228 advancements
+[14:40:46] [Server thread/INFO]: [Adm1n2610: Set the time to 1000]
+[14:40:46] [Render thread/INFO]: [System] [CHAT] Set the time to 1000
+[15:49:02] [Render thread/INFO]: Disconnected from server, resetting proxy config values
+[15:49:02] [Server thread/INFO]: Adm1n2610 lost connection: Disconnected
+[15:49:02] [Server thread/INFO]: Adm1n2610 left the game
+[15:49:02] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[15:49:02] [Server thread/INFO]: Stopping server
+[15:49:02] [Server thread/INFO]: Saving players
+[15:49:02] [Server thread/INFO]: Saving worlds
+[15:49:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[15:49:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[15:49:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[15:49:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[15:49:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:49:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:49:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:49:06] [Render thread/INFO]: Stopping!
+[15:49:06] [Render thread/INFO]: Disconnected from server, resetting proxy config values
