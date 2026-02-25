@@ -88,7 +88,6 @@
             },
             "installed": 17586675,
             "available": false,
-            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -162,7 +161,6 @@
             },
             "installed": 4650847,
             "available": false,
-            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -235,7 +233,6 @@
             },
             "installed": 65502,
             "available": false,
-            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 5,
@@ -260,24 +257,21 @@
               "id": 1009,
               "name": "Cloth Config API (FabricForgeNeoForge)",
               "gameEntityId": 348521,
-              "dependencyType": "optional",
-              "available": false
+              "dependencyType": "optional"
             },
             {
               "gameType": "mod",
               "id": 204,
               "name": "Mod Menu",
               "gameEntityId": 308702,
-              "dependencyType": "optional",
-              "available": false
+              "dependencyType": "optional"
             },
             {
               "gameType": "mod",
               "id": 1295,
               "name": "Fabric API",
               "gameEntityId": 306612,
-              "dependencyType": "optional",
-              "available": false
+              "dependencyType": "optional"
             }
           ],
           "lastGameVersion": {
@@ -307,7 +301,6 @@
       "id": -58208884013701,
       "name": "1.0",
       "available": false,
-      "remove": false,
       "minecraftVersionTypes": [
         {
           "id": 1,
