@@ -63,7 +63,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","mod_resources"]
+resourcePacks:["vanilla"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -166,6 +166,9 @@ key_key.debug.profilingChart:key.keyboard.1
 key_key.debug.fpsCharts:key.keyboard.2
 key_key.debug.networkCharts:key.keyboard.3
 key_of.key.zoom:key.keyboard.c
+key_key.weaponmaster_ydm.opengui:key.keyboard.v
+key_packedup.keys.openbag:key.keyboard.o
+key_key.mobhealthbar.chooser:key.keyboard.h
 soundCategory_master:0.0
 soundCategory_music:1.0
 soundCategory_record:1.0

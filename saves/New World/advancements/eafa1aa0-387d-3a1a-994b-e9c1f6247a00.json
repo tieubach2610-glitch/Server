@@ -8,7 +8,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2026-02-24 12:38:48 +0700",
+      "minecraft:deep_ocean": "2026-02-26 23:18:40 +0700",
       "minecraft:lush_caves": "2026-02-24 12:23:07 +0700",
+      "minecraft:frozen_ocean": "2026-02-26 23:09:46 +0700",
       "minecraft:desert": "2026-02-26 01:12:02 +0700",
       "minecraft:frozen_river": "2026-02-24 22:43:18 +0700",
       "minecraft:windswept_forest": "2026-02-24 12:51:32 +0700",
@@ -21,6 +23,7 @@
       "minecraft:windswept_savanna": "2026-02-24 12:49:50 +0700",
       "minecraft:warm_ocean": "2026-02-25 01:34:28 +0700",
       "minecraft:deep_lukewarm_ocean": "2026-02-26 00:43:39 +0700",
+      "minecraft:badlands": "2026-02-26 21:54:10 +0700",
       "minecraft:savanna_plateau": "2026-02-24 12:38:51 +0700",
       "minecraft:beach": "2026-02-25 01:33:24 +0700",
       "minecraft:sparse_jungle": "2026-02-24 22:14:06 +0700",
@@ -428,8 +431,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2026-02-24 12:24:53 +0700",
+      "minecraft:zombified_piglin": "2026-02-26 17:52:33 +0700",
       "minecraft:husk": "2026-02-26 01:28:00 +0700",
       "minecraft:bogged": "2026-02-25 01:51:40 +0700",
+      "minecraft:hoglin": "2026-02-26 18:08:03 +0700",
+      "minecraft:piglin": "2026-02-26 17:50:11 +0700",
       "minecraft:breeze": "2026-02-26 01:34:54 +0700",
       "minecraft:silverfish": "2026-02-26 01:42:40 +0700",
       "minecraft:stray": "2026-02-26 01:27:51 +0700",
@@ -1538,9 +1544,13 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2026-02-24 23:29:29 +0700"
+      "minecraft:crimson_forest": "2026-02-24 23:29:29 +0700",
+      "minecraft:nether_wastes": "2026-02-26 17:50:53 +0700",
+      "minecraft:soul_sand_valley": "2026-02-26 17:50:31 +0700",
+      "minecraft:basalt_deltas": "2026-02-26 17:58:59 +0700",
+      "minecraft:warped_forest": "2026-02-26 17:53:53 +0700"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
@@ -3165,6 +3175,300 @@
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2026-02-26 03:20:17 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2026-02-26 17:50:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2026-02-26 17:50:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2026-02-26 17:59:05 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2026-02-26 17:59:05 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2026-02-26 17:59:05 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2026-02-26 18:02:58 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-02-26 18:04:09 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2026-02-26 18:04:09 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-02-26 18:04:09 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-02-26 18:04:09 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-02-26 18:04:09 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-02-26 18:04:09 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-02-26 18:04:09 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2026-02-26 18:04:09 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-02-26 18:04:09 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-02-26 18:04:09 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2026-02-26 18:04:09 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2026-02-26 18:04:09 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-02-26 18:04:09 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-02-26 18:04:09 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-02-26 18:04:09 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-02-26 18:04:09 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2026-02-26 18:04:45 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2026-02-26 18:04:45 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2026-02-26 18:04:45 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2026-02-26 18:06:26 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2026-02-26 18:14:15 +0700"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/copper_from_chest": {
+    "criteria": {
+      "recipe_condition": "2026-02-26 21:42:41 +0700"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/obsidian_from_basic": {
+    "criteria": {
+      "recipe_condition": "2026-02-26 21:42:52 +0700"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/iron_from_chest": {
+    "criteria": {
+      "recipe_condition": "2026-02-26 21:42:41 +0700"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/iron_from_basic": {
+    "criteria": {
+      "recipe_condition": "2026-02-26 21:42:52 +0700"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/obsidian_from_iron": {
+    "criteria": {
+      "recipe_condition": "2026-02-26 21:44:11 +0700"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/copper_from_basic": {
+    "criteria": {
+      "recipe_condition": "2026-02-26 21:42:52 +0700"
+    },
+    "done": true
+  },
+  "packedup:basic_backpack": {
+    "criteria": {
+      "has_backpack": "2026-02-26 21:42:52 +0700"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/diamond_from_iron": {
+    "criteria": {
+      "recipe_condition": "2026-02-26 21:44:11 +0700"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/gold_from_iron": {
+    "criteria": {
+      "recipe_condition": "2026-02-26 21:44:11 +0700"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/gold_from_basic": {
+    "criteria": {
+      "recipe_condition": "2026-02-26 21:42:52 +0700"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/silver_from_iron": {
+    "criteria": {
+      "recipe_condition": "2026-02-26 21:44:11 +0700"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/silver_from_basic": {
+    "criteria": {
+      "recipe_condition": "2026-02-26 21:42:52 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2026-02-26 22:00:33 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2026-02-26 23:13:17 +0700"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/gold_from_chest": {
+    "criteria": {
+      "recipe_condition": "2026-02-26 21:42:41 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2026-02-26 23:13:17 +0700"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/silver_from_chest": {
+    "criteria": {
+      "recipe_condition": "2026-02-26 21:42:41 +0700"
+    },
+    "done": true
+  },
+  "packedup:iron_or_copper_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2026-02-26 21:44:11 +0700"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/diamond_from_basic": {
+    "criteria": {
+      "recipe_condition": "2026-02-26 21:42:52 +0700"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/basic_from_chest": {
+    "criteria": {
+      "recipe_condition": "2026-02-26 21:42:41 +0700"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/obsidian_from_chest": {
+    "criteria": {
+      "recipe_condition": "2026-02-26 21:42:41 +0700"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/diamond_from_chest": {
+    "criteria": {
+      "recipe_condition": "2026-02-26 21:42:41 +0700"
     },
     "done": true
   },

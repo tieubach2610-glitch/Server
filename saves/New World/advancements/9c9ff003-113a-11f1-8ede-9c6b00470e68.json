@@ -1211,5 +1211,47 @@
     },
     "done": true
   },
+  "packedup:recipes/misc/copper_from_chest": {
+    "criteria": {
+      "recipe_condition": "2026-02-26 21:32:54 +0700"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/iron_from_chest": {
+    "criteria": {
+      "recipe_condition": "2026-02-26 21:32:54 +0700"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/gold_from_chest": {
+    "criteria": {
+      "recipe_condition": "2026-02-26 21:32:54 +0700"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/silver_from_chest": {
+    "criteria": {
+      "recipe_condition": "2026-02-26 21:32:54 +0700"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/basic_from_chest": {
+    "criteria": {
+      "recipe_condition": "2026-02-26 21:32:54 +0700"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/obsidian_from_chest": {
+    "criteria": {
+      "recipe_condition": "2026-02-26 21:32:54 +0700"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/diamond_from_chest": {
+    "criteria": {
+      "recipe_condition": "2026-02-26 21:32:54 +0700"
+    },
+    "done": true
+  },
   "DataVersion": 4671
 }

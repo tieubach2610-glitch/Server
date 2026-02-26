@@ -88,7 +88,6 @@
             },
             "installed": 17586675,
             "available": false,
-            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -162,7 +161,6 @@
             },
             "installed": 4650847,
             "available": false,
-            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 1,
@@ -235,7 +233,6 @@
             },
             "installed": 65502,
             "available": false,
-            "remove": false,
             "minecraftVersionTypes": [
               {
                 "id": 5,
@@ -260,24 +257,21 @@
               "id": 1009,
               "name": "Cloth Config API (FabricForgeNeoForge)",
               "gameEntityId": 348521,
-              "dependencyType": "optional",
-              "available": false
+              "dependencyType": "optional"
             },
             {
               "gameType": "mod",
               "id": 204,
               "name": "Mod Menu",
               "gameEntityId": 308702,
-              "dependencyType": "optional",
-              "available": false
+              "dependencyType": "optional"
             },
             {
               "gameType": "mod",
               "id": 1295,
               "name": "Fabric API",
               "gameEntityId": 306612,
-              "dependencyType": "optional",
-              "available": false
+              "dependencyType": "optional"
             }
           ],
           "lastGameVersion": {
@@ -291,6 +285,649 @@
           "parser": true,
           "totalComments": 0,
           "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 1155218,
+          "name": "Armor Durability HUD",
+          "author": "NSI21",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/armor-durability-hud",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 26,
+              "name": "mc_addons",
+              "shortName": "addons",
+              "nesting": 0
+            }
+          ],
+          "picture": 978040,
+          "pictures": [
+            978558,
+            988330,
+            982001,
+            978557,
+            988331
+          ],
+          "lanName": "armor-durability-hud",
+          "version": {
+            "id": 7407674,
+            "name": "armorhud-8.1.1.3-1.21.11-forge",
+            "updateDate": 1767352333000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "4ec3a76e2161807c11bc9ef1e220d284961ca9ac",
+              "size": 25588,
+              "path": "mods/armorhud-8.1.1.3-1.21.11-forge.jar",
+              "url": "/mods/1155218/7407674/armorhud-8.1.1.3-1.21.11-forge.jar"
+            },
+            "installed": 232965,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1767301200000,
+          "update": 1767301200000,
+          "downloadALL": 1474763,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": 559894,
+          "name": "YDM's MobHealthBar",
+          "author": "yourdailymodderx",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/ydms-mobhealthbar-mod",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 844361,
+          "pictures": [
+            268154,
+            513224,
+            513389,
+            513223,
+            268153,
+            268152
+          ],
+          "lanName": "ydms-mobhealthbar-mod",
+          "version": {
+            "id": 7357758,
+            "name": "mobhealthbar-forge-1.21.11-2.3.2",
+            "updateDate": 1766247585000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "9a0914727ea8a58fda31ac5fcd07fadd27cd06ff",
+              "size": 129503,
+              "path": "mods/mobhealthbar-forge-1.21.11-2.3.2.jar",
+              "url": "/mods/559894/7357758/mobhealthbar-forge-1.21.11-2.3.2.jar"
+            },
+            "installed": 191285,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1766178000000,
+          "update": 1766178000000,
+          "downloadALL": 1620001,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 608235,
+          "name": "YDM's Weapon Master",
+          "author": "yourdailymodderx",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/ydms-weapon-master",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 844472,
+          "pictures": [
+            311448,
+            314785,
+            311446,
+            601365,
+            609130,
+            311447
+          ],
+          "lanName": "ydms-weapon-master",
+          "version": {
+            "id": 7357054,
+            "name": "weaponmaster-forge-1.21.11-4.4.4",
+            "updateDate": 1766236471000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "9704ac0b9542c59a06c8f15b9b8097ffe33358b1",
+              "size": 260181,
+              "path": "mods/weaponmaster-forge-1.21.11-4.4.4.jar",
+              "url": "/mods/608235/7357054/weaponmaster-forge-1.21.11-4.4.4.jar"
+            },
+            "installed": 61797,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1766178000000,
+          "update": 1766178000000,
+          "downloadALL": 1819028,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 438332,
+          "name": "SuperMartijn642's Config Lib",
+          "author": "supermartijn642",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 787819,
+          "pictures": [],
+          "lanName": "supermartijn642s-config-lib",
+          "version": {
+            "id": 7376950,
+            "name": "supermartijn642configlib-1.1.8-forge-mc1.21.11",
+            "updateDate": 1766662997000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "f003d02e94e99ca6e56b598a001ecb7c1bc3ddf0",
+              "size": 208097,
+              "path": "mods/supermartijn642configlib-1.1.8-forge-mc1.21.11.jar",
+              "url": "/mods/438332/7376950/supermartijn642configlib-1.1.8-forge-mc1.21.11.jar"
+            },
+            "installed": 137323,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 17,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1766610000000,
+          "update": 1766610000000,
+          "downloadALL": 3186460,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 511040,
+          "name": "Durability Tooltip",
+          "author": "supermartijn642",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/durability-tooltip",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 6,
+              "name": "map_information",
+              "shortName": "maps",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 821371,
+          "pictures": [],
+          "lanName": "durability-tooltip",
+          "version": {
+            "id": 7380205,
+            "name": "durabilitytooltip-1.1.6-forge-mc1.21.11",
+            "updateDate": 1766748499000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "f76ef2d6146e85a05ccfe9d52eea41a5c42f1db4",
+              "size": 20280,
+              "path": "mods/durabilitytooltip-1.1.6-forge-mc1.21.11.jar",
+              "url": "/mods/511040/7380205/durabilitytooltip-1.1.6-forge-mc1.21.11.jar"
+            },
+            "installed": 96856,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 1231,
+              "name": "SuperMartijn642's Config Lib",
+              "gameEntityId": 438332,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1766696400000,
+          "update": 1766696400000,
+          "downloadALL": 1498070,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 454372,
+          "name": "SuperMartijn642's Core Lib",
+          "author": "supermartijn642",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 821159,
+          "pictures": [],
+          "lanName": "supermartijn642s-core-lib",
+          "version": {
+            "id": 7393408,
+            "name": "supermartijn642corelib-1.1.18-forge-mc1.21.11-all",
+            "updateDate": 1767032042000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "7759503f37b47924783726ce87ff68b9d71f28c2",
+              "size": 752042,
+              "path": "mods/supermartijn642corelib-1.1.18-forge-mc1.21.11-all.jar",
+              "url": "/mods/454372/7393408/supermartijn642corelib-1.1.18-forge-mc1.21.11-all.jar"
+            },
+            "installed": 78668,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1769288400000,
+          "update": 1769288400000,
+          "downloadALL": 2785642,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 361867,
+          "name": "Packed Up (Backpacks)",
+          "author": "supermartijn642",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/packed-up-backpacks",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 83,
+              "name": "storage",
+              "shortName": "storage",
+              "nesting": 0
+            }
+          ],
+          "picture": 845344,
+          "pictures": [
+            148221,
+            148217,
+            148212,
+            148214,
+            148219,
+            148218,
+            148215,
+            148220,
+            148216,
+            148222,
+            148213,
+            157270
+          ],
+          "lanName": "packed-up-backpacks",
+          "version": {
+            "id": 7393415,
+            "name": "packedup-1.1.0-forge-mc1.21.11",
+            "updateDate": 1767032226000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              }
+            ],
+            "metadata": {
+              "sha1": "3e292cefcbfcadcb4acd3f1077317cd866d23f94",
+              "size": 242515,
+              "path": "mods/packedup-1.1.0-forge-mc1.21.11.jar",
+              "url": "/mods/361867/7393415/packedup-1.1.0-forge-mc1.21.11.jar"
+            },
+            "installed": 23368,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 1699,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 1231,
+              "name": "SuperMartijn642's Config Lib",
+              "gameEntityId": 438332,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 472,
+              "name": "Curios API (ForgeNeoForge)",
+              "gameEntityId": 309927,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 1230,
+              "name": "SuperMartijn642's Core Lib",
+              "gameEntityId": 454372,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1766955600000,
+          "update": 1766955600000,
+          "downloadALL": 1194583,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "no_active",
+          "id": 1355686,
+          "name": "Dynamic Animations",
+          "author": "Ashiatrix",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/dynamic-animations",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 22,
+              "name": "mc_miscellaneous",
+              "shortName": "mixed",
+              "nesting": 0
+            },
+            {
+              "id": 55,
+              "name": "adventure_and_rpg",
+              "shortName": "roleplay",
+              "nesting": 0
+            }
+          ],
+          "picture": 1235718,
+          "pictures": [
+            1235837
+          ],
+          "lanName": "dynamic-animations",
+          "version": {
+            "id": 7045633,
+            "name": "dynamicanimations-1.0.0",
+            "updateDate": 1759150978000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 66,
+                "name": "1.21.11"
+              },
+              {
+                "id": 65,
+                "name": "1.21.10"
+              },
+              {
+                "id": 64,
+                "name": "1.21.9"
+              },
+              {
+                "id": 63,
+                "name": "1.21.8"
+              },
+              {
+                "id": 62,
+                "name": "1.21.7"
+              },
+              {
+                "id": 61,
+                "name": "1.21.6"
+              },
+              {
+                "id": 59,
+                "name": "1.21.5"
+              },
+              {
+                "id": 57,
+                "name": "1.21.4"
+              },
+              {
+                "id": 55,
+                "name": "1.21.3"
+              },
+              {
+                "id": 54,
+                "name": "1.21.2"
+              },
+              {
+                "id": 53,
+                "name": "1.21.1"
+              },
+              {
+                "id": 52,
+                "name": "1.21"
+              },
+              {
+                "id": 51,
+                "name": "1.20.6"
+              },
+              {
+                "id": 50,
+                "name": "1.20.5"
+              },
+              {
+                "id": 49,
+                "name": "1.20.4"
+              },
+              {
+                "id": 48,
+                "name": "1.20.3"
+              },
+              {
+                "id": 47,
+                "name": "1.20.2"
+              },
+              {
+                "id": 46,
+                "name": "1.20.1"
+              },
+              {
+                "id": 45,
+                "name": "1.20"
+              }
+            ],
+            "metadata": {
+              "sha1": "dc9d43b148c1d58fa73fa3331f4f95c1e03199b9",
+              "size": 88969,
+              "path": "mods/dynamicanimations-1.0.0.jar",
+              "url": "/mods/1355686/7045633/dynamicanimations-1.0.0.jar"
+            },
+            "installed": 23186,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 5,
+                "name": "neoForge"
+              },
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1759266000000,
+          "update": 1759266000000,
+          "downloadALL": 29891,
+          "available": true,
+          "parser": true,
+          "totalComments": 0
         }
       ],
       "resourcePacks": [],
@@ -307,7 +944,6 @@
       "id": -58208884013701,
       "name": "1.0",
       "available": false,
-      "remove": false,
       "minecraftVersionTypes": [
         {
           "id": 1,
