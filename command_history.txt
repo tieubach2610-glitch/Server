@@ -21,3 +21,6 @@
 /time set day
 /time set 18000
 /time set day
+/kill Adm1n2610
+/tp kayd12
+/gamerule random_tick_speed 100

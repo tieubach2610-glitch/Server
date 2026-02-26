@@ -7,9 +7,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2026-02-26 11:10:12 +0700",
       "minecraft:jungle": "2026-02-24 12:02:52 +0700",
       "minecraft:river": "2026-02-25 13:04:11 +0700",
-      "minecraft:plains": "2026-02-24 21:40:36 +0700"
+      "minecraft:lukewarm_ocean": "2026-02-26 11:10:14 +0700",
+      "minecraft:plains": "2026-02-24 21:40:36 +0700",
+      "minecraft:warm_ocean": "2026-02-26 11:10:24 +0700"
     },
     "done": false
   },
@@ -1118,12 +1121,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/jungle_button": {
-    "criteria": {
-      "has_planks": "2026-02-25 23:31:34 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2026-02-25 23:30:59 +0700"
@@ -1142,18 +1139,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_stairs": {
-    "criteria": {
-      "has_planks": "2026-02-25 23:31:34 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_fence_gate": {
-    "criteria": {
-      "has_planks": "2026-02-25 23:31:34 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2026-02-25 23:30:59 +0700"
@@ -1163,6 +1148,24 @@
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2026-02-25 23:30:59 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2026-02-25 23:31:34 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2026-02-25 23:31:34 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-02-25 23:31:34 +0700"
     },
     "done": true
   },
@@ -1199,6 +1202,12 @@
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2026-02-25 23:31:34 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2026-02-26 12:19:06 +0700"
     },
     "done": true
   },
