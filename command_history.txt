@@ -24,3 +24,5 @@
 /kill Adm1n2610
 /tp kayd12
 /gamerule random_tick_speed 100
+/tp -152.3 123 -153.379
+/kill Adm1n2610

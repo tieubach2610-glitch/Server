@@ -8,7 +8,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2026-02-26 11:10:12 +0700",
+      "minecraft:forest": "2026-02-27 14:29:06 +0700",
+      "minecraft:sparse_jungle": "2026-02-27 14:28:58 +0700",
       "minecraft:jungle": "2026-02-24 12:02:52 +0700",
+      "minecraft:ocean": "2026-02-27 14:29:21 +0700",
+      "minecraft:sunflower_plains": "2026-02-27 14:29:20 +0700",
       "minecraft:river": "2026-02-25 13:04:11 +0700",
       "minecraft:lukewarm_ocean": "2026-02-26 11:10:14 +0700",
       "minecraft:plains": "2026-02-24 21:40:36 +0700",
@@ -1250,6 +1254,54 @@
   "packedup:recipes/misc/diamond_from_chest": {
     "criteria": {
       "recipe_condition": "2026-02-26 21:32:54 +0700"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2026-02-27 14:28:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2026-02-27 14:29:28 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2026-02-27 14:29:28 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2026-02-27 14:29:28 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2026-02-27 14:30:04 +0700"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2026-02-27 14:30:04 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2026-02-27 14:30:04 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2026-02-27 14:38:39 +0700"
     },
     "done": true
   },
